@@ -1,21 +1,4 @@
 {
-    "HighwayToHell_solo_AcousticGuitar_original": {
-        "instrumrnt": "AcousticGuitar",
-        "key": "original",
-        "tags": [
-            "guitar",
-            "slow",
-            "classical",
-            "strings",
-            "harp",
-            "quiet",
-            "soft",
-            "piano",
-            "sitar",
-            "solo"
-        ],
-        "tempo": "original"
-    },
     "HighwayToHell_solo_AcousticGuitar_original_C#major": {
         "instrumrnt": "AcousticGuitar",
         "key": "C#major",
@@ -84,6 +67,23 @@
         ],
         "tempo": "original"
     },
+    "HighwayToHell_solo_AcousticGuitar_original_original": {
+        "instrumrnt": "AcousticGuitar",
+        "key": "original",
+        "tags": [
+            "guitar",
+            "slow",
+            "classical",
+            "strings",
+            "harp",
+            "quiet",
+            "soft",
+            "piano",
+            "sitar",
+            "solo"
+        ],
+        "tempo": "original"
+    },
     "HighwayToHell_solo_AcousticGuitar_x050_C#major": {
         "instrumrnt": "AcousticGuitar",
         "key": "C#major",
@@ -115,23 +115,6 @@
             "soft",
             "piano",
             "solo"
-        ],
-        "tempo": "x050"
-    },
-    "HighwayToHell_solo_AcousticGuitar_x050_Dmajor": {
-        "instrumrnt": "AcousticGuitar",
-        "key": "Dmajor",
-        "tags": [
-            "guitar",
-            "slow",
-            "strings",
-            "classical",
-            "harp",
-            "quiet",
-            "sitar",
-            "soft",
-            "solo",
-            "piano"
         ],
         "tempo": "x050"
     },
@@ -169,6 +152,23 @@
         ],
         "tempo": "x050"
     },
+    "HighwayToHell_solo_AcousticGuitar_x050_original": {
+        "instrumrnt": "AcousticGuitar",
+        "key": "original",
+        "tags": [
+            "guitar",
+            "slow",
+            "strings",
+            "classical",
+            "harp",
+            "quiet",
+            "sitar",
+            "soft",
+            "solo",
+            "piano"
+        ],
+        "tempo": "x050"
+    },
     "HighwayToHell_solo_AcousticGuitar_x075_C#major": {
         "instrumrnt": "AcousticGuitar",
         "key": "C#major",
@@ -199,23 +199,6 @@
             "soft",
             "piano",
             "solo",
-            "sitar"
-        ],
-        "tempo": "x075"
-    },
-    "HighwayToHell_solo_AcousticGuitar_x075_Dmajor": {
-        "instrumrnt": "AcousticGuitar",
-        "key": "Dmajor",
-        "tags": [
-            "guitar",
-            "slow",
-            "classical",
-            "strings",
-            "harp",
-            "quiet",
-            "soft",
-            "solo",
-            "piano",
             "sitar"
         ],
         "tempo": "x075"
@@ -254,6 +237,23 @@
         ],
         "tempo": "x075"
     },
+    "HighwayToHell_solo_AcousticGuitar_x075_original": {
+        "instrumrnt": "AcousticGuitar",
+        "key": "original",
+        "tags": [
+            "guitar",
+            "slow",
+            "classical",
+            "strings",
+            "harp",
+            "quiet",
+            "soft",
+            "solo",
+            "piano",
+            "sitar"
+        ],
+        "tempo": "x075"
+    },
     "HighwayToHell_solo_AcousticGuitar_x125_C#major": {
         "instrumrnt": "AcousticGuitar",
         "key": "C#major",
@@ -288,23 +288,6 @@
         ],
         "tempo": "x125"
     },
-    "HighwayToHell_solo_AcousticGuitar_x125_Dmajor": {
-        "instrumrnt": "AcousticGuitar",
-        "key": "Dmajor",
-        "tags": [
-            "guitar",
-            "slow",
-            "classical",
-            "strings",
-            "harp",
-            "quiet",
-            "piano",
-            "soft",
-            "sitar",
-            "solo"
-        ],
-        "tempo": "x125"
-    },
     "HighwayToHell_solo_AcousticGuitar_x125_E-major": {
         "instrumrnt": "AcousticGuitar",
         "key": "E-major",
@@ -335,6 +318,23 @@
             "sitar",
             "piano",
             "soft",
+            "solo"
+        ],
+        "tempo": "x125"
+    },
+    "HighwayToHell_solo_AcousticGuitar_x125_original": {
+        "instrumrnt": "AcousticGuitar",
+        "key": "original",
+        "tags": [
+            "guitar",
+            "slow",
+            "classical",
+            "strings",
+            "harp",
+            "quiet",
+            "piano",
+            "soft",
+            "sitar",
             "solo"
         ],
         "tempo": "x125"
@@ -373,23 +373,6 @@
         ],
         "tempo": "x150"
     },
-    "HighwayToHell_solo_AcousticGuitar_x150_Dmajor": {
-        "instrumrnt": "AcousticGuitar",
-        "key": "Dmajor",
-        "tags": [
-            "guitar",
-            "slow",
-            "strings",
-            "classical",
-            "harp",
-            "quiet",
-            "sitar",
-            "soft",
-            "piano",
-            "solo"
-        ],
-        "tempo": "x150"
-    },
     "HighwayToHell_solo_AcousticGuitar_x150_E-major": {
         "instrumrnt": "AcousticGuitar",
         "key": "E-major",
@@ -424,22 +407,22 @@
         ],
         "tempo": "x150"
     },
-    "HighwayToHell_solo_ElectricBass_original": {
-        "instrumrnt": "ElectricBass",
+    "HighwayToHell_solo_AcousticGuitar_x150_original": {
+        "instrumrnt": "AcousticGuitar",
         "key": "original",
         "tags": [
-            "slow",
-            "piano",
             "guitar",
+            "slow",
+            "strings",
             "classical",
-            "soft",
+            "harp",
             "quiet",
-            "solo",
-            "electronic",
-            "no vocals",
-            "synth"
+            "sitar",
+            "soft",
+            "piano",
+            "solo"
         ],
-        "tempo": "original"
+        "tempo": "x150"
     },
     "HighwayToHell_solo_ElectricBass_original_C#major": {
         "instrumrnt": "ElectricBass",
@@ -509,6 +492,23 @@
         ],
         "tempo": "original"
     },
+    "HighwayToHell_solo_ElectricBass_original_original": {
+        "instrumrnt": "ElectricBass",
+        "key": "original",
+        "tags": [
+            "slow",
+            "piano",
+            "guitar",
+            "classical",
+            "soft",
+            "quiet",
+            "solo",
+            "electronic",
+            "no vocals",
+            "synth"
+        ],
+        "tempo": "original"
+    },
     "HighwayToHell_solo_ElectricBass_x050_C#major": {
         "instrumrnt": "ElectricBass",
         "key": "C#major",
@@ -539,23 +539,6 @@
             "synth",
             "classical",
             "quiet",
-            "techno"
-        ],
-        "tempo": "x050"
-    },
-    "HighwayToHell_solo_ElectricBass_x050_Dmajor": {
-        "instrumrnt": "ElectricBass",
-        "key": "Dmajor",
-        "tags": [
-            "piano",
-            "slow",
-            "guitar",
-            "electronic",
-            "solo",
-            "soft",
-            "synth",
-            "quiet",
-            "classical",
             "techno"
         ],
         "tempo": "x050"
@@ -594,6 +577,23 @@
         ],
         "tempo": "x050"
     },
+    "HighwayToHell_solo_ElectricBass_x050_original": {
+        "instrumrnt": "ElectricBass",
+        "key": "original",
+        "tags": [
+            "piano",
+            "slow",
+            "guitar",
+            "electronic",
+            "solo",
+            "soft",
+            "synth",
+            "quiet",
+            "classical",
+            "techno"
+        ],
+        "tempo": "x050"
+    },
     "HighwayToHell_solo_ElectricBass_x075_C#major": {
         "instrumrnt": "ElectricBass",
         "key": "C#major",
@@ -620,23 +620,6 @@
             "guitar",
             "soft",
             "solo",
-            "classical",
-            "quiet",
-            "electronic",
-            "synth",
-            "no vocals"
-        ],
-        "tempo": "x075"
-    },
-    "HighwayToHell_solo_ElectricBass_x075_Dmajor": {
-        "instrumrnt": "ElectricBass",
-        "key": "Dmajor",
-        "tags": [
-            "slow",
-            "piano",
-            "guitar",
-            "solo",
-            "soft",
             "classical",
             "quiet",
             "electronic",
@@ -679,6 +662,23 @@
         ],
         "tempo": "x075"
     },
+    "HighwayToHell_solo_ElectricBass_x075_original": {
+        "instrumrnt": "ElectricBass",
+        "key": "original",
+        "tags": [
+            "slow",
+            "piano",
+            "guitar",
+            "solo",
+            "soft",
+            "classical",
+            "quiet",
+            "electronic",
+            "synth",
+            "no vocals"
+        ],
+        "tempo": "x075"
+    },
     "HighwayToHell_solo_ElectricBass_x125_C#major": {
         "instrumrnt": "ElectricBass",
         "key": "C#major",
@@ -710,23 +710,6 @@
             "no vocals",
             "no vocal",
             "strings"
-        ],
-        "tempo": "x125"
-    },
-    "HighwayToHell_solo_ElectricBass_x125_Dmajor": {
-        "instrumrnt": "ElectricBass",
-        "key": "Dmajor",
-        "tags": [
-            "slow",
-            "piano",
-            "guitar",
-            "quiet",
-            "soft",
-            "classical",
-            "solo",
-            "no vocals",
-            "no vocal",
-            "electronic"
         ],
         "tempo": "x125"
     },
@@ -764,6 +747,23 @@
         ],
         "tempo": "x125"
     },
+    "HighwayToHell_solo_ElectricBass_x125_original": {
+        "instrumrnt": "ElectricBass",
+        "key": "original",
+        "tags": [
+            "slow",
+            "piano",
+            "guitar",
+            "quiet",
+            "soft",
+            "classical",
+            "solo",
+            "no vocals",
+            "no vocal",
+            "electronic"
+        ],
+        "tempo": "x125"
+    },
     "HighwayToHell_solo_ElectricBass_x150_C#major": {
         "instrumrnt": "ElectricBass",
         "key": "C#major",
@@ -794,23 +794,6 @@
             "solo",
             "strings",
             "harp",
-            "no vocals"
-        ],
-        "tempo": "x150"
-    },
-    "HighwayToHell_solo_ElectricBass_x150_Dmajor": {
-        "instrumrnt": "ElectricBass",
-        "key": "Dmajor",
-        "tags": [
-            "slow",
-            "piano",
-            "guitar",
-            "quiet",
-            "soft",
-            "classical",
-            "solo",
-            "harp",
-            "strings",
             "no vocals"
         ],
         "tempo": "x150"
@@ -849,22 +832,22 @@
         ],
         "tempo": "x150"
     },
-    "HighwayToHell_solo_ElectricGuitar_original": {
-        "instrumrnt": "ElectricGuitar",
+    "HighwayToHell_solo_ElectricBass_x150_original": {
+        "instrumrnt": "ElectricBass",
         "key": "original",
         "tags": [
             "slow",
+            "piano",
             "guitar",
-            "strings",
-            "electronic",
             "quiet",
-            "sitar",
+            "soft",
             "classical",
-            "indian",
             "solo",
-            "synth"
+            "harp",
+            "strings",
+            "no vocals"
         ],
-        "tempo": "original"
+        "tempo": "x150"
     },
     "HighwayToHell_solo_ElectricGuitar_original_C#major": {
         "instrumrnt": "ElectricGuitar",
@@ -934,6 +917,23 @@
         ],
         "tempo": "original"
     },
+    "HighwayToHell_solo_ElectricGuitar_original_original": {
+        "instrumrnt": "ElectricGuitar",
+        "key": "original",
+        "tags": [
+            "slow",
+            "guitar",
+            "strings",
+            "electronic",
+            "quiet",
+            "sitar",
+            "classical",
+            "indian",
+            "solo",
+            "synth"
+        ],
+        "tempo": "original"
+    },
     "HighwayToHell_solo_ElectricGuitar_x050_C#major": {
         "instrumrnt": "ElectricGuitar",
         "key": "C#major",
@@ -965,23 +965,6 @@
             "strings",
             "soft",
             "no vocals"
-        ],
-        "tempo": "x050"
-    },
-    "HighwayToHell_solo_ElectricGuitar_x050_Dmajor": {
-        "instrumrnt": "ElectricGuitar",
-        "key": "Dmajor",
-        "tags": [
-            "electronic",
-            "slow",
-            "guitar",
-            "techno",
-            "synth",
-            "strings",
-            "solo",
-            "quiet",
-            "no vocals",
-            "soft"
         ],
         "tempo": "x050"
     },
@@ -1019,6 +1002,23 @@
         ],
         "tempo": "x050"
     },
+    "HighwayToHell_solo_ElectricGuitar_x050_original": {
+        "instrumrnt": "ElectricGuitar",
+        "key": "original",
+        "tags": [
+            "electronic",
+            "slow",
+            "guitar",
+            "techno",
+            "synth",
+            "strings",
+            "solo",
+            "quiet",
+            "no vocals",
+            "soft"
+        ],
+        "tempo": "x050"
+    },
     "HighwayToHell_solo_ElectricGuitar_x075_C#major": {
         "instrumrnt": "ElectricGuitar",
         "key": "C#major",
@@ -1050,23 +1050,6 @@
             "no vocals",
             "soft",
             "synth"
-        ],
-        "tempo": "x075"
-    },
-    "HighwayToHell_solo_ElectricGuitar_x075_Dmajor": {
-        "instrumrnt": "ElectricGuitar",
-        "key": "Dmajor",
-        "tags": [
-            "slow",
-            "guitar",
-            "electronic",
-            "strings",
-            "synth",
-            "quiet",
-            "techno",
-            "solo",
-            "sitar",
-            "no vocals"
         ],
         "tempo": "x075"
     },
@@ -1104,6 +1087,23 @@
         ],
         "tempo": "x075"
     },
+    "HighwayToHell_solo_ElectricGuitar_x075_original": {
+        "instrumrnt": "ElectricGuitar",
+        "key": "original",
+        "tags": [
+            "slow",
+            "guitar",
+            "electronic",
+            "strings",
+            "synth",
+            "quiet",
+            "techno",
+            "solo",
+            "sitar",
+            "no vocals"
+        ],
+        "tempo": "x075"
+    },
     "HighwayToHell_solo_ElectricGuitar_x125_C#major": {
         "instrumrnt": "ElectricGuitar",
         "key": "C#major",
@@ -1135,23 +1135,6 @@
             "soft",
             "piano",
             "no vocals"
-        ],
-        "tempo": "x125"
-    },
-    "HighwayToHell_solo_ElectricGuitar_x125_Dmajor": {
-        "instrumrnt": "ElectricGuitar",
-        "key": "Dmajor",
-        "tags": [
-            "slow",
-            "guitar",
-            "strings",
-            "classical",
-            "quiet",
-            "sitar",
-            "electronic",
-            "indian",
-            "solo",
-            "soft"
         ],
         "tempo": "x125"
     },
@@ -1189,6 +1172,23 @@
         ],
         "tempo": "x125"
     },
+    "HighwayToHell_solo_ElectricGuitar_x125_original": {
+        "instrumrnt": "ElectricGuitar",
+        "key": "original",
+        "tags": [
+            "slow",
+            "guitar",
+            "strings",
+            "classical",
+            "quiet",
+            "sitar",
+            "electronic",
+            "indian",
+            "solo",
+            "soft"
+        ],
+        "tempo": "x125"
+    },
     "HighwayToHell_solo_ElectricGuitar_x150_C#major": {
         "instrumrnt": "ElectricGuitar",
         "key": "C#major",
@@ -1220,23 +1220,6 @@
             "soft",
             "solo",
             "piano"
-        ],
-        "tempo": "x150"
-    },
-    "HighwayToHell_solo_ElectricGuitar_x150_Dmajor": {
-        "instrumrnt": "ElectricGuitar",
-        "key": "Dmajor",
-        "tags": [
-            "slow",
-            "guitar",
-            "sitar",
-            "strings",
-            "quiet",
-            "indian",
-            "classical",
-            "piano",
-            "soft",
-            "solo"
         ],
         "tempo": "x150"
     },
@@ -1274,22 +1257,22 @@
         ],
         "tempo": "x150"
     },
-    "HighwayToHell_solo_ElectricOrgan_original": {
-        "instrumrnt": "ElectricOrgan",
+    "HighwayToHell_solo_ElectricGuitar_x150_original": {
+        "instrumrnt": "ElectricGuitar",
         "key": "original",
         "tags": [
-            "guitar",
             "slow",
-            "classical",
+            "guitar",
+            "sitar",
+            "strings",
             "quiet",
+            "indian",
+            "classical",
             "piano",
             "soft",
-            "strings",
-            "solo",
-            "harp",
-            "opera"
+            "solo"
         ],
-        "tempo": "original"
+        "tempo": "x150"
     },
     "HighwayToHell_solo_ElectricOrgan_original_C#major": {
         "instrumrnt": "ElectricOrgan",
@@ -1359,6 +1342,23 @@
         ],
         "tempo": "original"
     },
+    "HighwayToHell_solo_ElectricOrgan_original_original": {
+        "instrumrnt": "ElectricOrgan",
+        "key": "original",
+        "tags": [
+            "guitar",
+            "slow",
+            "classical",
+            "quiet",
+            "piano",
+            "soft",
+            "strings",
+            "solo",
+            "harp",
+            "opera"
+        ],
+        "tempo": "original"
+    },
     "HighwayToHell_solo_ElectricOrgan_x050_C#major": {
         "instrumrnt": "ElectricOrgan",
         "key": "C#major",
@@ -1390,23 +1390,6 @@
             "solo",
             "harp",
             "no vocal"
-        ],
-        "tempo": "x050"
-    },
-    "HighwayToHell_solo_ElectricOrgan_x050_Dmajor": {
-        "instrumrnt": "ElectricOrgan",
-        "key": "Dmajor",
-        "tags": [
-            "guitar",
-            "classical",
-            "slow",
-            "piano",
-            "quiet",
-            "soft",
-            "strings",
-            "solo",
-            "opera",
-            "harp"
         ],
         "tempo": "x050"
     },
@@ -1444,6 +1427,23 @@
         ],
         "tempo": "x050"
     },
+    "HighwayToHell_solo_ElectricOrgan_x050_original": {
+        "instrumrnt": "ElectricOrgan",
+        "key": "original",
+        "tags": [
+            "guitar",
+            "classical",
+            "slow",
+            "piano",
+            "quiet",
+            "soft",
+            "strings",
+            "solo",
+            "opera",
+            "harp"
+        ],
+        "tempo": "x050"
+    },
     "HighwayToHell_solo_ElectricOrgan_x075_C#major": {
         "instrumrnt": "ElectricOrgan",
         "key": "C#major",
@@ -1475,23 +1475,6 @@
             "solo",
             "harp",
             "no vocal"
-        ],
-        "tempo": "x075"
-    },
-    "HighwayToHell_solo_ElectricOrgan_x075_Dmajor": {
-        "instrumrnt": "ElectricOrgan",
-        "key": "Dmajor",
-        "tags": [
-            "guitar",
-            "slow",
-            "classical",
-            "quiet",
-            "piano",
-            "soft",
-            "strings",
-            "solo",
-            "harp",
-            "opera"
         ],
         "tempo": "x075"
     },
@@ -1529,6 +1512,23 @@
         ],
         "tempo": "x075"
     },
+    "HighwayToHell_solo_ElectricOrgan_x075_original": {
+        "instrumrnt": "ElectricOrgan",
+        "key": "original",
+        "tags": [
+            "guitar",
+            "slow",
+            "classical",
+            "quiet",
+            "piano",
+            "soft",
+            "strings",
+            "solo",
+            "harp",
+            "opera"
+        ],
+        "tempo": "x075"
+    },
     "HighwayToHell_solo_ElectricOrgan_x125_C#major": {
         "instrumrnt": "ElectricOrgan",
         "key": "C#major",
@@ -1560,23 +1560,6 @@
             "solo",
             "harp",
             "no vocals"
-        ],
-        "tempo": "x125"
-    },
-    "HighwayToHell_solo_ElectricOrgan_x125_Dmajor": {
-        "instrumrnt": "ElectricOrgan",
-        "key": "Dmajor",
-        "tags": [
-            "guitar",
-            "slow",
-            "classical",
-            "quiet",
-            "piano",
-            "soft",
-            "strings",
-            "solo",
-            "harp",
-            "opera"
         ],
         "tempo": "x125"
     },
@@ -1614,6 +1597,23 @@
         ],
         "tempo": "x125"
     },
+    "HighwayToHell_solo_ElectricOrgan_x125_original": {
+        "instrumrnt": "ElectricOrgan",
+        "key": "original",
+        "tags": [
+            "guitar",
+            "slow",
+            "classical",
+            "quiet",
+            "piano",
+            "soft",
+            "strings",
+            "solo",
+            "harp",
+            "opera"
+        ],
+        "tempo": "x125"
+    },
     "HighwayToHell_solo_ElectricOrgan_x150_C#major": {
         "instrumrnt": "ElectricOrgan",
         "key": "C#major",
@@ -1645,23 +1645,6 @@
             "harp",
             "solo",
             "no vocals"
-        ],
-        "tempo": "x150"
-    },
-    "HighwayToHell_solo_ElectricOrgan_x150_Dmajor": {
-        "instrumrnt": "ElectricOrgan",
-        "key": "Dmajor",
-        "tags": [
-            "guitar",
-            "slow",
-            "classical",
-            "quiet",
-            "piano",
-            "soft",
-            "strings",
-            "solo",
-            "opera",
-            "harp"
         ],
         "tempo": "x150"
     },
@@ -1699,22 +1682,22 @@
         ],
         "tempo": "x150"
     },
-    "HighwayToHell_solo_Flute_original": {
-        "instrumrnt": "Flute",
+    "HighwayToHell_solo_ElectricOrgan_x150_original": {
+        "instrumrnt": "ElectricOrgan",
         "key": "original",
         "tags": [
-            "violin",
-            "classical",
-            "strings",
+            "guitar",
             "slow",
-            "cello",
-            "flute",
+            "classical",
             "quiet",
+            "piano",
+            "soft",
+            "strings",
             "solo",
-            "classic",
-            "soft"
+            "opera",
+            "harp"
         ],
-        "tempo": "original"
+        "tempo": "x150"
     },
     "HighwayToHell_solo_Flute_original_C#major": {
         "instrumrnt": "Flute",
@@ -1784,6 +1767,23 @@
         ],
         "tempo": "original"
     },
+    "HighwayToHell_solo_Flute_original_original": {
+        "instrumrnt": "Flute",
+        "key": "original",
+        "tags": [
+            "violin",
+            "classical",
+            "strings",
+            "slow",
+            "cello",
+            "flute",
+            "quiet",
+            "solo",
+            "classic",
+            "soft"
+        ],
+        "tempo": "original"
+    },
     "HighwayToHell_solo_Flute_x050_C#major": {
         "instrumrnt": "Flute",
         "key": "C#major",
@@ -1818,23 +1818,6 @@
         ],
         "tempo": "x050"
     },
-    "HighwayToHell_solo_Flute_x050_Dmajor": {
-        "instrumrnt": "Flute",
-        "key": "Dmajor",
-        "tags": [
-            "violin",
-            "classical",
-            "strings",
-            "slow",
-            "cello",
-            "flute",
-            "classic",
-            "quiet",
-            "solo",
-            "soft"
-        ],
-        "tempo": "x050"
-    },
     "HighwayToHell_solo_Flute_x050_E-major": {
         "instrumrnt": "Flute",
         "key": "E-major",
@@ -1864,6 +1847,23 @@
             "classic",
             "quiet",
             "cello",
+            "solo",
+            "soft"
+        ],
+        "tempo": "x050"
+    },
+    "HighwayToHell_solo_Flute_x050_original": {
+        "instrumrnt": "Flute",
+        "key": "original",
+        "tags": [
+            "violin",
+            "classical",
+            "strings",
+            "slow",
+            "cello",
+            "flute",
+            "classic",
+            "quiet",
             "solo",
             "soft"
         ],
@@ -1903,23 +1903,6 @@
         ],
         "tempo": "x075"
     },
-    "HighwayToHell_solo_Flute_x075_Dmajor": {
-        "instrumrnt": "Flute",
-        "key": "Dmajor",
-        "tags": [
-            "violin",
-            "classical",
-            "strings",
-            "slow",
-            "cello",
-            "flute",
-            "quiet",
-            "classic",
-            "solo",
-            "soft"
-        ],
-        "tempo": "x075"
-    },
     "HighwayToHell_solo_Flute_x075_E-major": {
         "instrumrnt": "Flute",
         "key": "E-major",
@@ -1950,6 +1933,23 @@
             "classic",
             "solo",
             "cello",
+            "soft"
+        ],
+        "tempo": "x075"
+    },
+    "HighwayToHell_solo_Flute_x075_original": {
+        "instrumrnt": "Flute",
+        "key": "original",
+        "tags": [
+            "violin",
+            "classical",
+            "strings",
+            "slow",
+            "cello",
+            "flute",
+            "quiet",
+            "classic",
+            "solo",
             "soft"
         ],
         "tempo": "x075"
@@ -1988,23 +1988,6 @@
         ],
         "tempo": "x125"
     },
-    "HighwayToHell_solo_Flute_x125_Dmajor": {
-        "instrumrnt": "Flute",
-        "key": "Dmajor",
-        "tags": [
-            "violin",
-            "classical",
-            "strings",
-            "slow",
-            "flute",
-            "quiet",
-            "cello",
-            "solo",
-            "classic",
-            "soft"
-        ],
-        "tempo": "x125"
-    },
     "HighwayToHell_solo_Flute_x125_E-major": {
         "instrumrnt": "Flute",
         "key": "E-major",
@@ -2036,6 +2019,23 @@
             "soft",
             "classic",
             "cello"
+        ],
+        "tempo": "x125"
+    },
+    "HighwayToHell_solo_Flute_x125_original": {
+        "instrumrnt": "Flute",
+        "key": "original",
+        "tags": [
+            "violin",
+            "classical",
+            "strings",
+            "slow",
+            "flute",
+            "quiet",
+            "cello",
+            "solo",
+            "classic",
+            "soft"
         ],
         "tempo": "x125"
     },
@@ -2073,23 +2073,6 @@
         ],
         "tempo": "x150"
     },
-    "HighwayToHell_solo_Flute_x150_Dmajor": {
-        "instrumrnt": "Flute",
-        "key": "Dmajor",
-        "tags": [
-            "violin",
-            "classical",
-            "strings",
-            "slow",
-            "quiet",
-            "flute",
-            "cello",
-            "solo",
-            "soft",
-            "classic"
-        ],
-        "tempo": "x150"
-    },
     "HighwayToHell_solo_Flute_x150_E-major": {
         "instrumrnt": "Flute",
         "key": "E-major",
@@ -2124,22 +2107,22 @@
         ],
         "tempo": "x150"
     },
-    "HighwayToHell_solo_Glockenspiel_original": {
-        "instrumrnt": "Glockenspiel",
+    "HighwayToHell_solo_Flute_x150_original": {
+        "instrumrnt": "Flute",
         "key": "original",
         "tags": [
-            "guitar",
-            "slow",
-            "strings",
+            "violin",
             "classical",
+            "strings",
+            "slow",
             "quiet",
-            "harp",
-            "sitar",
+            "flute",
+            "cello",
             "solo",
-            "harpsichord",
-            "soft"
+            "soft",
+            "classic"
         ],
-        "tempo": "original"
+        "tempo": "x150"
     },
     "HighwayToHell_solo_Glockenspiel_original_C#major": {
         "instrumrnt": "Glockenspiel",
@@ -2209,6 +2192,23 @@
         ],
         "tempo": "original"
     },
+    "HighwayToHell_solo_Glockenspiel_original_original": {
+        "instrumrnt": "Glockenspiel",
+        "key": "original",
+        "tags": [
+            "guitar",
+            "slow",
+            "strings",
+            "classical",
+            "quiet",
+            "harp",
+            "sitar",
+            "solo",
+            "harpsichord",
+            "soft"
+        ],
+        "tempo": "original"
+    },
     "HighwayToHell_solo_Glockenspiel_x050_C#major": {
         "instrumrnt": "Glockenspiel",
         "key": "C#major",
@@ -2240,23 +2240,6 @@
             "quiet",
             "indian",
             "solo"
-        ],
-        "tempo": "x050"
-    },
-    "HighwayToHell_solo_Glockenspiel_x050_Dmajor": {
-        "instrumrnt": "Glockenspiel",
-        "key": "Dmajor",
-        "tags": [
-            "guitar",
-            "classical",
-            "strings",
-            "slow",
-            "harpsichord",
-            "sitar",
-            "harp",
-            "solo",
-            "quiet",
-            "indian"
         ],
         "tempo": "x050"
     },
@@ -2294,6 +2277,23 @@
         ],
         "tempo": "x050"
     },
+    "HighwayToHell_solo_Glockenspiel_x050_original": {
+        "instrumrnt": "Glockenspiel",
+        "key": "original",
+        "tags": [
+            "guitar",
+            "classical",
+            "strings",
+            "slow",
+            "harpsichord",
+            "sitar",
+            "harp",
+            "solo",
+            "quiet",
+            "indian"
+        ],
+        "tempo": "x050"
+    },
     "HighwayToHell_solo_Glockenspiel_x075_C#major": {
         "instrumrnt": "Glockenspiel",
         "key": "C#major",
@@ -2328,23 +2328,6 @@
         ],
         "tempo": "x075"
     },
-    "HighwayToHell_solo_Glockenspiel_x075_Dmajor": {
-        "instrumrnt": "Glockenspiel",
-        "key": "Dmajor",
-        "tags": [
-            "guitar",
-            "slow",
-            "strings",
-            "classical",
-            "harp",
-            "quiet",
-            "sitar",
-            "solo",
-            "harpsichord",
-            "soft"
-        ],
-        "tempo": "x075"
-    },
     "HighwayToHell_solo_Glockenspiel_x075_E-major": {
         "instrumrnt": "Glockenspiel",
         "key": "E-major",
@@ -2365,6 +2348,23 @@
     "HighwayToHell_solo_Glockenspiel_x075_Emajor": {
         "instrumrnt": "Glockenspiel",
         "key": "Emajor",
+        "tags": [
+            "guitar",
+            "slow",
+            "strings",
+            "classical",
+            "harp",
+            "quiet",
+            "sitar",
+            "solo",
+            "harpsichord",
+            "soft"
+        ],
+        "tempo": "x075"
+    },
+    "HighwayToHell_solo_Glockenspiel_x075_original": {
+        "instrumrnt": "Glockenspiel",
+        "key": "original",
         "tags": [
             "guitar",
             "slow",
@@ -2413,23 +2413,6 @@
         ],
         "tempo": "x125"
     },
-    "HighwayToHell_solo_Glockenspiel_x125_Dmajor": {
-        "instrumrnt": "Glockenspiel",
-        "key": "Dmajor",
-        "tags": [
-            "guitar",
-            "slow",
-            "strings",
-            "quiet",
-            "classical",
-            "harp",
-            "sitar",
-            "solo",
-            "harpsichord",
-            "soft"
-        ],
-        "tempo": "x125"
-    },
     "HighwayToHell_solo_Glockenspiel_x125_E-major": {
         "instrumrnt": "Glockenspiel",
         "key": "E-major",
@@ -2461,6 +2444,23 @@
             "solo",
             "soft",
             "harpsichord"
+        ],
+        "tempo": "x125"
+    },
+    "HighwayToHell_solo_Glockenspiel_x125_original": {
+        "instrumrnt": "Glockenspiel",
+        "key": "original",
+        "tags": [
+            "guitar",
+            "slow",
+            "strings",
+            "quiet",
+            "classical",
+            "harp",
+            "sitar",
+            "solo",
+            "harpsichord",
+            "soft"
         ],
         "tempo": "x125"
     },
@@ -2498,23 +2498,6 @@
         ],
         "tempo": "x150"
     },
-    "HighwayToHell_solo_Glockenspiel_x150_Dmajor": {
-        "instrumrnt": "Glockenspiel",
-        "key": "Dmajor",
-        "tags": [
-            "guitar",
-            "slow",
-            "strings",
-            "quiet",
-            "classical",
-            "harp",
-            "sitar",
-            "solo",
-            "harpsichord",
-            "soft"
-        ],
-        "tempo": "x150"
-    },
     "HighwayToHell_solo_Glockenspiel_x150_E-major": {
         "instrumrnt": "Glockenspiel",
         "key": "E-major",
@@ -2549,22 +2532,22 @@
         ],
         "tempo": "x150"
     },
-    "HighwayToHell_solo_Harmonica_original": {
-        "instrumrnt": "Harmonica",
+    "HighwayToHell_solo_Glockenspiel_x150_original": {
+        "instrumrnt": "Glockenspiel",
         "key": "original",
         "tags": [
-            "violin",
-            "strings",
-            "classical",
-            "slow",
-            "sitar",
-            "indian",
-            "quiet",
-            "solo",
             "guitar",
-            "piano"
+            "slow",
+            "strings",
+            "quiet",
+            "classical",
+            "harp",
+            "sitar",
+            "solo",
+            "harpsichord",
+            "soft"
         ],
-        "tempo": "original"
+        "tempo": "x150"
     },
     "HighwayToHell_solo_Harmonica_original_C#major": {
         "instrumrnt": "Harmonica",
@@ -2634,6 +2617,23 @@
         ],
         "tempo": "original"
     },
+    "HighwayToHell_solo_Harmonica_original_original": {
+        "instrumrnt": "Harmonica",
+        "key": "original",
+        "tags": [
+            "violin",
+            "strings",
+            "classical",
+            "slow",
+            "sitar",
+            "indian",
+            "quiet",
+            "solo",
+            "guitar",
+            "piano"
+        ],
+        "tempo": "original"
+    },
     "HighwayToHell_solo_Harmonica_x050_C#major": {
         "instrumrnt": "Harmonica",
         "key": "C#major",
@@ -2665,23 +2665,6 @@
             "solo",
             "cello",
             "soft"
-        ],
-        "tempo": "x050"
-    },
-    "HighwayToHell_solo_Harmonica_x050_Dmajor": {
-        "instrumrnt": "Harmonica",
-        "key": "Dmajor",
-        "tags": [
-            "violin",
-            "classical",
-            "strings",
-            "slow",
-            "indian",
-            "quiet",
-            "solo",
-            "sitar",
-            "cello",
-            "classic"
         ],
         "tempo": "x050"
     },
@@ -2719,6 +2702,23 @@
         ],
         "tempo": "x050"
     },
+    "HighwayToHell_solo_Harmonica_x050_original": {
+        "instrumrnt": "Harmonica",
+        "key": "original",
+        "tags": [
+            "violin",
+            "classical",
+            "strings",
+            "slow",
+            "indian",
+            "quiet",
+            "solo",
+            "sitar",
+            "cello",
+            "classic"
+        ],
+        "tempo": "x050"
+    },
     "HighwayToHell_solo_Harmonica_x075_C#major": {
         "instrumrnt": "Harmonica",
         "key": "C#major",
@@ -2739,23 +2739,6 @@
     "HighwayToHell_solo_Harmonica_x075_Cmajor": {
         "instrumrnt": "Harmonica",
         "key": "Cmajor",
-        "tags": [
-            "violin",
-            "strings",
-            "classical",
-            "slow",
-            "indian",
-            "sitar",
-            "quiet",
-            "solo",
-            "cello",
-            "soft"
-        ],
-        "tempo": "x075"
-    },
-    "HighwayToHell_solo_Harmonica_x075_Dmajor": {
-        "instrumrnt": "Harmonica",
-        "key": "Dmajor",
         "tags": [
             "violin",
             "strings",
@@ -2804,6 +2787,23 @@
         ],
         "tempo": "x075"
     },
+    "HighwayToHell_solo_Harmonica_x075_original": {
+        "instrumrnt": "Harmonica",
+        "key": "original",
+        "tags": [
+            "violin",
+            "strings",
+            "classical",
+            "slow",
+            "indian",
+            "sitar",
+            "quiet",
+            "solo",
+            "cello",
+            "soft"
+        ],
+        "tempo": "x075"
+    },
     "HighwayToHell_solo_Harmonica_x125_C#major": {
         "instrumrnt": "Harmonica",
         "key": "C#major",
@@ -2834,23 +2834,6 @@
             "quiet",
             "solo",
             "cello",
-            "piano"
-        ],
-        "tempo": "x125"
-    },
-    "HighwayToHell_solo_Harmonica_x125_Dmajor": {
-        "instrumrnt": "Harmonica",
-        "key": "Dmajor",
-        "tags": [
-            "violin",
-            "strings",
-            "classical",
-            "slow",
-            "sitar",
-            "indian",
-            "quiet",
-            "solo",
-            "soft",
             "piano"
         ],
         "tempo": "x125"
@@ -2889,6 +2872,23 @@
         ],
         "tempo": "x125"
     },
+    "HighwayToHell_solo_Harmonica_x125_original": {
+        "instrumrnt": "Harmonica",
+        "key": "original",
+        "tags": [
+            "violin",
+            "strings",
+            "classical",
+            "slow",
+            "sitar",
+            "indian",
+            "quiet",
+            "solo",
+            "soft",
+            "piano"
+        ],
+        "tempo": "x125"
+    },
     "HighwayToHell_solo_Harmonica_x150_C#major": {
         "instrumrnt": "Harmonica",
         "key": "C#major",
@@ -2917,23 +2917,6 @@
             "sitar",
             "quiet",
             "indian",
-            "piano",
-            "solo",
-            "soft"
-        ],
-        "tempo": "x150"
-    },
-    "HighwayToHell_solo_Harmonica_x150_Dmajor": {
-        "instrumrnt": "Harmonica",
-        "key": "Dmajor",
-        "tags": [
-            "slow",
-            "sitar",
-            "indian",
-            "strings",
-            "violin",
-            "classical",
-            "quiet",
             "piano",
             "solo",
             "soft"
@@ -2974,22 +2957,22 @@
         ],
         "tempo": "x150"
     },
-    "HighwayToHell_solo_Harp_original": {
-        "instrumrnt": "Harp",
+    "HighwayToHell_solo_Harmonica_x150_original": {
+        "instrumrnt": "Harmonica",
         "key": "original",
         "tags": [
-            "quiet",
             "slow",
-            "guitar",
-            "soft",
-            "piano",
-            "harp",
+            "sitar",
+            "indian",
+            "strings",
+            "violin",
             "classical",
+            "quiet",
+            "piano",
             "solo",
-            "ambient",
-            "no vocal"
+            "soft"
         ],
-        "tempo": "original"
+        "tempo": "x150"
     },
     "HighwayToHell_solo_Harp_original_C#major": {
         "instrumrnt": "Harp",
@@ -3059,6 +3042,23 @@
         ],
         "tempo": "original"
     },
+    "HighwayToHell_solo_Harp_original_original": {
+        "instrumrnt": "Harp",
+        "key": "original",
+        "tags": [
+            "quiet",
+            "slow",
+            "guitar",
+            "soft",
+            "piano",
+            "harp",
+            "classical",
+            "solo",
+            "ambient",
+            "no vocal"
+        ],
+        "tempo": "original"
+    },
     "HighwayToHell_solo_Harp_x050_C#major": {
         "instrumrnt": "Harp",
         "key": "C#major",
@@ -3090,23 +3090,6 @@
             "solo",
             "harp",
             "no vocal"
-        ],
-        "tempo": "x050"
-    },
-    "HighwayToHell_solo_Harp_x050_Dmajor": {
-        "instrumrnt": "Harp",
-        "key": "Dmajor",
-        "tags": [
-            "quiet",
-            "slow",
-            "soft",
-            "piano",
-            "ambient",
-            "guitar",
-            "classical",
-            "electronic",
-            "flute",
-            "harp"
         ],
         "tempo": "x050"
     },
@@ -3144,6 +3127,23 @@
         ],
         "tempo": "x050"
     },
+    "HighwayToHell_solo_Harp_x050_original": {
+        "instrumrnt": "Harp",
+        "key": "original",
+        "tags": [
+            "quiet",
+            "slow",
+            "soft",
+            "piano",
+            "ambient",
+            "guitar",
+            "classical",
+            "electronic",
+            "flute",
+            "harp"
+        ],
+        "tempo": "x050"
+    },
     "HighwayToHell_solo_Harp_x075_C#major": {
         "instrumrnt": "Harp",
         "key": "C#major",
@@ -3175,23 +3175,6 @@
             "solo",
             "strings",
             "no vocal"
-        ],
-        "tempo": "x075"
-    },
-    "HighwayToHell_solo_Harp_x075_Dmajor": {
-        "instrumrnt": "Harp",
-        "key": "Dmajor",
-        "tags": [
-            "quiet",
-            "slow",
-            "guitar",
-            "soft",
-            "piano",
-            "harp",
-            "solo",
-            "classical",
-            "ambient",
-            "flute"
         ],
         "tempo": "x075"
     },
@@ -3229,6 +3212,23 @@
         ],
         "tempo": "x075"
     },
+    "HighwayToHell_solo_Harp_x075_original": {
+        "instrumrnt": "Harp",
+        "key": "original",
+        "tags": [
+            "quiet",
+            "slow",
+            "guitar",
+            "soft",
+            "piano",
+            "harp",
+            "solo",
+            "classical",
+            "ambient",
+            "flute"
+        ],
+        "tempo": "x075"
+    },
     "HighwayToHell_solo_Harp_x125_C#major": {
         "instrumrnt": "Harp",
         "key": "C#major",
@@ -3260,23 +3260,6 @@
             "solo",
             "strings",
             "no vocal"
-        ],
-        "tempo": "x125"
-    },
-    "HighwayToHell_solo_Harp_x125_Dmajor": {
-        "instrumrnt": "Harp",
-        "key": "Dmajor",
-        "tags": [
-            "quiet",
-            "slow",
-            "guitar",
-            "soft",
-            "piano",
-            "harp",
-            "classical",
-            "solo",
-            "ambient",
-            "strings"
         ],
         "tempo": "x125"
     },
@@ -3314,6 +3297,23 @@
         ],
         "tempo": "x125"
     },
+    "HighwayToHell_solo_Harp_x125_original": {
+        "instrumrnt": "Harp",
+        "key": "original",
+        "tags": [
+            "quiet",
+            "slow",
+            "guitar",
+            "soft",
+            "piano",
+            "harp",
+            "classical",
+            "solo",
+            "ambient",
+            "strings"
+        ],
+        "tempo": "x125"
+    },
     "HighwayToHell_solo_Harp_x150_C#major": {
         "instrumrnt": "Harp",
         "key": "C#major",
@@ -3345,23 +3345,6 @@
             "solo",
             "strings",
             "no vocal"
-        ],
-        "tempo": "x150"
-    },
-    "HighwayToHell_solo_Harp_x150_Dmajor": {
-        "instrumrnt": "Harp",
-        "key": "Dmajor",
-        "tags": [
-            "quiet",
-            "slow",
-            "guitar",
-            "soft",
-            "piano",
-            "harp",
-            "classical",
-            "solo",
-            "strings",
-            "flute"
         ],
         "tempo": "x150"
     },
@@ -3399,22 +3382,22 @@
         ],
         "tempo": "x150"
     },
-    "HighwayToHell_solo_Harpsichord_original": {
-        "instrumrnt": "Harpsichord",
+    "HighwayToHell_solo_Harp_x150_original": {
+        "instrumrnt": "Harp",
         "key": "original",
         "tags": [
-            "classical",
-            "harpsichord",
-            "strings",
-            "guitar",
-            "slow",
-            "sitar",
             "quiet",
+            "slow",
+            "guitar",
+            "soft",
+            "piano",
             "harp",
-            "indian",
-            "solo"
+            "classical",
+            "solo",
+            "strings",
+            "flute"
         ],
-        "tempo": "original"
+        "tempo": "x150"
     },
     "HighwayToHell_solo_Harpsichord_original_C#major": {
         "instrumrnt": "Harpsichord",
@@ -3484,6 +3467,23 @@
         ],
         "tempo": "original"
     },
+    "HighwayToHell_solo_Harpsichord_original_original": {
+        "instrumrnt": "Harpsichord",
+        "key": "original",
+        "tags": [
+            "classical",
+            "harpsichord",
+            "strings",
+            "guitar",
+            "slow",
+            "sitar",
+            "quiet",
+            "harp",
+            "indian",
+            "solo"
+        ],
+        "tempo": "original"
+    },
     "HighwayToHell_solo_Harpsichord_x050_C#major": {
         "instrumrnt": "Harpsichord",
         "key": "C#major",
@@ -3515,23 +3515,6 @@
             "harp",
             "quiet",
             "solo"
-        ],
-        "tempo": "x050"
-    },
-    "HighwayToHell_solo_Harpsichord_x050_Dmajor": {
-        "instrumrnt": "Harpsichord",
-        "key": "Dmajor",
-        "tags": [
-            "classical",
-            "strings",
-            "harpsichord",
-            "sitar",
-            "slow",
-            "guitar",
-            "violin",
-            "quiet",
-            "indian",
-            "harp"
         ],
         "tempo": "x050"
     },
@@ -3569,6 +3552,23 @@
         ],
         "tempo": "x050"
     },
+    "HighwayToHell_solo_Harpsichord_x050_original": {
+        "instrumrnt": "Harpsichord",
+        "key": "original",
+        "tags": [
+            "classical",
+            "strings",
+            "harpsichord",
+            "sitar",
+            "slow",
+            "guitar",
+            "violin",
+            "quiet",
+            "indian",
+            "harp"
+        ],
+        "tempo": "x050"
+    },
     "HighwayToHell_solo_Harpsichord_x075_C#major": {
         "instrumrnt": "Harpsichord",
         "key": "C#major",
@@ -3595,23 +3595,6 @@
             "strings",
             "guitar",
             "harpsichord",
-            "slow",
-            "indian",
-            "quiet",
-            "harp",
-            "solo"
-        ],
-        "tempo": "x075"
-    },
-    "HighwayToHell_solo_Harpsichord_x075_Dmajor": {
-        "instrumrnt": "Harpsichord",
-        "key": "Dmajor",
-        "tags": [
-            "classical",
-            "strings",
-            "harpsichord",
-            "sitar",
-            "guitar",
             "slow",
             "indian",
             "quiet",
@@ -3654,6 +3637,23 @@
         ],
         "tempo": "x075"
     },
+    "HighwayToHell_solo_Harpsichord_x075_original": {
+        "instrumrnt": "Harpsichord",
+        "key": "original",
+        "tags": [
+            "classical",
+            "strings",
+            "harpsichord",
+            "sitar",
+            "guitar",
+            "slow",
+            "indian",
+            "quiet",
+            "harp",
+            "solo"
+        ],
+        "tempo": "x075"
+    },
     "HighwayToHell_solo_Harpsichord_x125_C#major": {
         "instrumrnt": "Harpsichord",
         "key": "C#major",
@@ -3685,23 +3685,6 @@
             "quiet",
             "harp",
             "piano"
-        ],
-        "tempo": "x125"
-    },
-    "HighwayToHell_solo_Harpsichord_x125_Dmajor": {
-        "instrumrnt": "Harpsichord",
-        "key": "Dmajor",
-        "tags": [
-            "classical",
-            "harpsichord",
-            "strings",
-            "guitar",
-            "slow",
-            "sitar",
-            "quiet",
-            "harp",
-            "piano",
-            "indian"
         ],
         "tempo": "x125"
     },
@@ -3739,6 +3722,23 @@
         ],
         "tempo": "x125"
     },
+    "HighwayToHell_solo_Harpsichord_x125_original": {
+        "instrumrnt": "Harpsichord",
+        "key": "original",
+        "tags": [
+            "classical",
+            "harpsichord",
+            "strings",
+            "guitar",
+            "slow",
+            "sitar",
+            "quiet",
+            "harp",
+            "piano",
+            "indian"
+        ],
+        "tempo": "x125"
+    },
     "HighwayToHell_solo_Harpsichord_x150_C#major": {
         "instrumrnt": "Harpsichord",
         "key": "C#major",
@@ -3769,23 +3769,6 @@
             "indian",
             "quiet",
             "harp",
-            "piano"
-        ],
-        "tempo": "x150"
-    },
-    "HighwayToHell_solo_Harpsichord_x150_Dmajor": {
-        "instrumrnt": "Harpsichord",
-        "key": "Dmajor",
-        "tags": [
-            "classical",
-            "guitar",
-            "strings",
-            "harpsichord",
-            "slow",
-            "sitar",
-            "quiet",
-            "harp",
-            "indian",
             "piano"
         ],
         "tempo": "x150"
@@ -3824,22 +3807,22 @@
         ],
         "tempo": "x150"
     },
-    "HighwayToHell_solo_Koto_original": {
-        "instrumrnt": "Koto",
+    "HighwayToHell_solo_Harpsichord_x150_original": {
+        "instrumrnt": "Harpsichord",
         "key": "original",
         "tags": [
-            "guitar",
-            "slow",
-            "strings",
-            "harp",
-            "sitar",
             "classical",
-            "indian",
-            "piano",
+            "guitar",
+            "strings",
+            "harpsichord",
+            "slow",
+            "sitar",
             "quiet",
-            "solo"
+            "harp",
+            "indian",
+            "piano"
         ],
-        "tempo": "original"
+        "tempo": "x150"
     },
     "HighwayToHell_solo_Koto_original_C#major": {
         "instrumrnt": "Koto",
@@ -3909,6 +3892,23 @@
         ],
         "tempo": "original"
     },
+    "HighwayToHell_solo_Koto_original_original": {
+        "instrumrnt": "Koto",
+        "key": "original",
+        "tags": [
+            "guitar",
+            "slow",
+            "strings",
+            "harp",
+            "sitar",
+            "classical",
+            "indian",
+            "piano",
+            "quiet",
+            "solo"
+        ],
+        "tempo": "original"
+    },
     "HighwayToHell_solo_Koto_x050_C#major": {
         "instrumrnt": "Koto",
         "key": "C#major",
@@ -3940,23 +3940,6 @@
             "solo",
             "piano",
             "no vocals"
-        ],
-        "tempo": "x050"
-    },
-    "HighwayToHell_solo_Koto_x050_Dmajor": {
-        "instrumrnt": "Koto",
-        "key": "Dmajor",
-        "tags": [
-            "guitar",
-            "sitar",
-            "strings",
-            "harp",
-            "classical",
-            "indian",
-            "slow",
-            "harpsichord",
-            "solo",
-            "piano"
         ],
         "tempo": "x050"
     },
@@ -3994,6 +3977,23 @@
         ],
         "tempo": "x050"
     },
+    "HighwayToHell_solo_Koto_x050_original": {
+        "instrumrnt": "Koto",
+        "key": "original",
+        "tags": [
+            "guitar",
+            "sitar",
+            "strings",
+            "harp",
+            "classical",
+            "indian",
+            "slow",
+            "harpsichord",
+            "solo",
+            "piano"
+        ],
+        "tempo": "x050"
+    },
     "HighwayToHell_solo_Koto_x075_C#major": {
         "instrumrnt": "Koto",
         "key": "C#major",
@@ -4025,23 +4025,6 @@
             "piano",
             "solo",
             "quiet"
-        ],
-        "tempo": "x075"
-    },
-    "HighwayToHell_solo_Koto_x075_Dmajor": {
-        "instrumrnt": "Koto",
-        "key": "Dmajor",
-        "tags": [
-            "guitar",
-            "strings",
-            "harp",
-            "sitar",
-            "slow",
-            "classical",
-            "indian",
-            "solo",
-            "piano",
-            "harpsichord"
         ],
         "tempo": "x075"
     },
@@ -4079,6 +4062,23 @@
         ],
         "tempo": "x075"
     },
+    "HighwayToHell_solo_Koto_x075_original": {
+        "instrumrnt": "Koto",
+        "key": "original",
+        "tags": [
+            "guitar",
+            "strings",
+            "harp",
+            "sitar",
+            "slow",
+            "classical",
+            "indian",
+            "solo",
+            "piano",
+            "harpsichord"
+        ],
+        "tempo": "x075"
+    },
     "HighwayToHell_solo_Koto_x125_C#major": {
         "instrumrnt": "Koto",
         "key": "C#major",
@@ -4099,23 +4099,6 @@
     "HighwayToHell_solo_Koto_x125_Cmajor": {
         "instrumrnt": "Koto",
         "key": "Cmajor",
-        "tags": [
-            "guitar",
-            "slow",
-            "strings",
-            "sitar",
-            "harp",
-            "classical",
-            "indian",
-            "piano",
-            "quiet",
-            "solo"
-        ],
-        "tempo": "x125"
-    },
-    "HighwayToHell_solo_Koto_x125_Dmajor": {
-        "instrumrnt": "Koto",
-        "key": "Dmajor",
         "tags": [
             "guitar",
             "slow",
@@ -4164,6 +4147,23 @@
         ],
         "tempo": "x125"
     },
+    "HighwayToHell_solo_Koto_x125_original": {
+        "instrumrnt": "Koto",
+        "key": "original",
+        "tags": [
+            "guitar",
+            "slow",
+            "strings",
+            "sitar",
+            "harp",
+            "classical",
+            "indian",
+            "piano",
+            "quiet",
+            "solo"
+        ],
+        "tempo": "x125"
+    },
     "HighwayToHell_solo_Koto_x150_C#major": {
         "instrumrnt": "Koto",
         "key": "C#major",
@@ -4189,23 +4189,6 @@
             "slow",
             "strings",
             "sitar",
-            "harp",
-            "classical",
-            "indian",
-            "piano",
-            "quiet",
-            "solo"
-        ],
-        "tempo": "x150"
-    },
-    "HighwayToHell_solo_Koto_x150_Dmajor": {
-        "instrumrnt": "Koto",
-        "key": "Dmajor",
-        "tags": [
-            "guitar",
-            "slow",
-            "sitar",
-            "strings",
             "harp",
             "classical",
             "indian",
@@ -4249,22 +4232,22 @@
         ],
         "tempo": "x150"
     },
-    "HighwayToHell_solo_Piano_original": {
-        "instrumrnt": "Piano",
+    "HighwayToHell_solo_Koto_x150_original": {
+        "instrumrnt": "Koto",
         "key": "original",
         "tags": [
-            "piano",
-            "classical",
-            "slow",
-            "quiet",
             "guitar",
-            "soft",
-            "solo",
+            "slow",
+            "sitar",
             "strings",
             "harp",
-            "no vocals"
+            "classical",
+            "indian",
+            "piano",
+            "quiet",
+            "solo"
         ],
-        "tempo": "original"
+        "tempo": "x150"
     },
     "HighwayToHell_solo_Piano_original_C#major": {
         "instrumrnt": "Piano",
@@ -4334,6 +4317,23 @@
         ],
         "tempo": "original"
     },
+    "HighwayToHell_solo_Piano_original_original": {
+        "instrumrnt": "Piano",
+        "key": "original",
+        "tags": [
+            "piano",
+            "classical",
+            "slow",
+            "quiet",
+            "guitar",
+            "soft",
+            "solo",
+            "strings",
+            "harp",
+            "no vocals"
+        ],
+        "tempo": "original"
+    },
     "HighwayToHell_solo_Piano_x050_C#major": {
         "instrumrnt": "Piano",
         "key": "C#major",
@@ -4363,23 +4363,6 @@
             "soft",
             "strings",
             "guitar",
-            "harp",
-            "no vocals"
-        ],
-        "tempo": "x050"
-    },
-    "HighwayToHell_solo_Piano_x050_Dmajor": {
-        "instrumrnt": "Piano",
-        "key": "Dmajor",
-        "tags": [
-            "piano",
-            "classical",
-            "slow",
-            "quiet",
-            "guitar",
-            "soft",
-            "strings",
-            "solo",
             "harp",
             "no vocals"
         ],
@@ -4419,6 +4402,23 @@
         ],
         "tempo": "x050"
     },
+    "HighwayToHell_solo_Piano_x050_original": {
+        "instrumrnt": "Piano",
+        "key": "original",
+        "tags": [
+            "piano",
+            "classical",
+            "slow",
+            "quiet",
+            "guitar",
+            "soft",
+            "strings",
+            "solo",
+            "harp",
+            "no vocals"
+        ],
+        "tempo": "x050"
+    },
     "HighwayToHell_solo_Piano_x075_C#major": {
         "instrumrnt": "Piano",
         "key": "C#major",
@@ -4445,23 +4445,6 @@
             "slow",
             "quiet",
             "guitar",
-            "strings",
-            "soft",
-            "solo",
-            "harp",
-            "no vocals"
-        ],
-        "tempo": "x075"
-    },
-    "HighwayToHell_solo_Piano_x075_Dmajor": {
-        "instrumrnt": "Piano",
-        "key": "Dmajor",
-        "tags": [
-            "piano",
-            "classical",
-            "slow",
-            "guitar",
-            "quiet",
             "strings",
             "soft",
             "solo",
@@ -4504,6 +4487,23 @@
         ],
         "tempo": "x075"
     },
+    "HighwayToHell_solo_Piano_x075_original": {
+        "instrumrnt": "Piano",
+        "key": "original",
+        "tags": [
+            "piano",
+            "classical",
+            "slow",
+            "guitar",
+            "quiet",
+            "strings",
+            "soft",
+            "solo",
+            "harp",
+            "no vocals"
+        ],
+        "tempo": "x075"
+    },
     "HighwayToHell_solo_Piano_x125_C#major": {
         "instrumrnt": "Piano",
         "key": "C#major",
@@ -4524,23 +4524,6 @@
     "HighwayToHell_solo_Piano_x125_Cmajor": {
         "instrumrnt": "Piano",
         "key": "Cmajor",
-        "tags": [
-            "piano",
-            "classical",
-            "slow",
-            "quiet",
-            "guitar",
-            "soft",
-            "solo",
-            "strings",
-            "harp",
-            "no vocals"
-        ],
-        "tempo": "x125"
-    },
-    "HighwayToHell_solo_Piano_x125_Dmajor": {
-        "instrumrnt": "Piano",
-        "key": "Dmajor",
         "tags": [
             "piano",
             "classical",
@@ -4589,6 +4572,23 @@
         ],
         "tempo": "x125"
     },
+    "HighwayToHell_solo_Piano_x125_original": {
+        "instrumrnt": "Piano",
+        "key": "original",
+        "tags": [
+            "piano",
+            "classical",
+            "slow",
+            "quiet",
+            "guitar",
+            "soft",
+            "solo",
+            "strings",
+            "harp",
+            "no vocals"
+        ],
+        "tempo": "x125"
+    },
     "HighwayToHell_solo_Piano_x150_C#major": {
         "instrumrnt": "Piano",
         "key": "C#major",
@@ -4609,23 +4609,6 @@
     "HighwayToHell_solo_Piano_x150_Cmajor": {
         "instrumrnt": "Piano",
         "key": "Cmajor",
-        "tags": [
-            "piano",
-            "classical",
-            "slow",
-            "quiet",
-            "guitar",
-            "soft",
-            "strings",
-            "solo",
-            "harp",
-            "no vocals"
-        ],
-        "tempo": "x150"
-    },
-    "HighwayToHell_solo_Piano_x150_Dmajor": {
-        "instrumrnt": "Piano",
-        "key": "Dmajor",
         "tags": [
             "piano",
             "classical",
@@ -4674,22 +4657,22 @@
         ],
         "tempo": "x150"
     },
-    "HighwayToHell_solo_SopranoSaxophone_original": {
-        "instrumrnt": "SopranoSaxophone",
+    "HighwayToHell_solo_Piano_x150_original": {
+        "instrumrnt": "Piano",
         "key": "original",
         "tags": [
-            "violin",
-            "strings",
+            "piano",
             "classical",
             "slow",
-            "solo",
             "quiet",
-            "cello",
             "guitar",
-            "sitar",
-            "piano"
+            "soft",
+            "strings",
+            "solo",
+            "harp",
+            "no vocals"
         ],
-        "tempo": "original"
+        "tempo": "x150"
     },
     "HighwayToHell_solo_SopranoSaxophone_original_C#major": {
         "instrumrnt": "SopranoSaxophone",
@@ -4759,6 +4742,23 @@
         ],
         "tempo": "original"
     },
+    "HighwayToHell_solo_SopranoSaxophone_original_original": {
+        "instrumrnt": "SopranoSaxophone",
+        "key": "original",
+        "tags": [
+            "violin",
+            "strings",
+            "classical",
+            "slow",
+            "solo",
+            "quiet",
+            "cello",
+            "guitar",
+            "sitar",
+            "piano"
+        ],
+        "tempo": "original"
+    },
     "HighwayToHell_solo_SopranoSaxophone_x050_C#major": {
         "instrumrnt": "SopranoSaxophone",
         "key": "C#major",
@@ -4793,23 +4793,6 @@
         ],
         "tempo": "x050"
     },
-    "HighwayToHell_solo_SopranoSaxophone_x050_Dmajor": {
-        "instrumrnt": "SopranoSaxophone",
-        "key": "Dmajor",
-        "tags": [
-            "violin",
-            "classical",
-            "strings",
-            "solo",
-            "slow",
-            "cello",
-            "no vocals",
-            "quiet",
-            "piano",
-            "no vocal"
-        ],
-        "tempo": "x050"
-    },
     "HighwayToHell_solo_SopranoSaxophone_x050_E-major": {
         "instrumrnt": "SopranoSaxophone",
         "key": "E-major",
@@ -4840,6 +4823,23 @@
             "cello",
             "no vocals",
             "quiet",
+            "no vocal"
+        ],
+        "tempo": "x050"
+    },
+    "HighwayToHell_solo_SopranoSaxophone_x050_original": {
+        "instrumrnt": "SopranoSaxophone",
+        "key": "original",
+        "tags": [
+            "violin",
+            "classical",
+            "strings",
+            "solo",
+            "slow",
+            "cello",
+            "no vocals",
+            "quiet",
+            "piano",
             "no vocal"
         ],
         "tempo": "x050"
@@ -4878,23 +4878,6 @@
         ],
         "tempo": "x075"
     },
-    "HighwayToHell_solo_SopranoSaxophone_x075_Dmajor": {
-        "instrumrnt": "SopranoSaxophone",
-        "key": "Dmajor",
-        "tags": [
-            "violin",
-            "strings",
-            "classical",
-            "slow",
-            "solo",
-            "quiet",
-            "cello",
-            "no vocals",
-            "guitar",
-            "piano"
-        ],
-        "tempo": "x075"
-    },
     "HighwayToHell_solo_SopranoSaxophone_x075_E-major": {
         "instrumrnt": "SopranoSaxophone",
         "key": "E-major",
@@ -4926,6 +4909,23 @@
             "no vocals",
             "no vocal",
             "indian"
+        ],
+        "tempo": "x075"
+    },
+    "HighwayToHell_solo_SopranoSaxophone_x075_original": {
+        "instrumrnt": "SopranoSaxophone",
+        "key": "original",
+        "tags": [
+            "violin",
+            "strings",
+            "classical",
+            "slow",
+            "solo",
+            "quiet",
+            "cello",
+            "no vocals",
+            "guitar",
+            "piano"
         ],
         "tempo": "x075"
     },
@@ -4963,23 +4963,6 @@
         ],
         "tempo": "x125"
     },
-    "HighwayToHell_solo_SopranoSaxophone_x125_Dmajor": {
-        "instrumrnt": "SopranoSaxophone",
-        "key": "Dmajor",
-        "tags": [
-            "violin",
-            "strings",
-            "classical",
-            "slow",
-            "solo",
-            "quiet",
-            "piano",
-            "cello",
-            "guitar",
-            "sitar"
-        ],
-        "tempo": "x125"
-    },
     "HighwayToHell_solo_SopranoSaxophone_x125_E-major": {
         "instrumrnt": "SopranoSaxophone",
         "key": "E-major",
@@ -5011,6 +4994,23 @@
             "no vocals",
             "soft",
             "indian"
+        ],
+        "tempo": "x125"
+    },
+    "HighwayToHell_solo_SopranoSaxophone_x125_original": {
+        "instrumrnt": "SopranoSaxophone",
+        "key": "original",
+        "tags": [
+            "violin",
+            "strings",
+            "classical",
+            "slow",
+            "solo",
+            "quiet",
+            "piano",
+            "cello",
+            "guitar",
+            "sitar"
         ],
         "tempo": "x125"
     },
@@ -5048,23 +5048,6 @@
         ],
         "tempo": "x150"
     },
-    "HighwayToHell_solo_SopranoSaxophone_x150_Dmajor": {
-        "instrumrnt": "SopranoSaxophone",
-        "key": "Dmajor",
-        "tags": [
-            "violin",
-            "strings",
-            "slow",
-            "classical",
-            "solo",
-            "quiet",
-            "piano",
-            "sitar",
-            "soft",
-            "guitar"
-        ],
-        "tempo": "x150"
-    },
     "HighwayToHell_solo_SopranoSaxophone_x150_E-major": {
         "instrumrnt": "SopranoSaxophone",
         "key": "E-major",
@@ -5099,22 +5082,22 @@
         ],
         "tempo": "x150"
     },
-    "HighwayToHell_solo_Soprano_original": {
-        "instrumrnt": "Soprano",
+    "HighwayToHell_solo_SopranoSaxophone_x150_original": {
+        "instrumrnt": "SopranoSaxophone",
         "key": "original",
         "tags": [
-            "choir",
-            "opera",
-            "choral",
-            "classical",
-            "quiet",
-            "vocal",
+            "violin",
+            "strings",
             "slow",
-            "female",
-            "singing",
-            "vocals"
+            "classical",
+            "solo",
+            "quiet",
+            "piano",
+            "sitar",
+            "soft",
+            "guitar"
         ],
-        "tempo": "original"
+        "tempo": "x150"
     },
     "HighwayToHell_solo_Soprano_original_C#major": {
         "instrumrnt": "Soprano",
@@ -5184,6 +5167,23 @@
         ],
         "tempo": "original"
     },
+    "HighwayToHell_solo_Soprano_original_original": {
+        "instrumrnt": "Soprano",
+        "key": "original",
+        "tags": [
+            "choir",
+            "opera",
+            "choral",
+            "classical",
+            "quiet",
+            "vocal",
+            "slow",
+            "female",
+            "singing",
+            "vocals"
+        ],
+        "tempo": "original"
+    },
     "HighwayToHell_solo_Soprano_x050_C#major": {
         "instrumrnt": "Soprano",
         "key": "C#major",
@@ -5218,23 +5218,6 @@
         ],
         "tempo": "x050"
     },
-    "HighwayToHell_solo_Soprano_x050_Dmajor": {
-        "instrumrnt": "Soprano",
-        "key": "Dmajor",
-        "tags": [
-            "opera",
-            "choir",
-            "choral",
-            "classical",
-            "quiet",
-            "vocal",
-            "female",
-            "slow",
-            "singing",
-            "vocals"
-        ],
-        "tempo": "x050"
-    },
     "HighwayToHell_solo_Soprano_x050_E-major": {
         "instrumrnt": "Soprano",
         "key": "E-major",
@@ -5255,6 +5238,23 @@
     "HighwayToHell_solo_Soprano_x050_Emajor": {
         "instrumrnt": "Soprano",
         "key": "Emajor",
+        "tags": [
+            "opera",
+            "choir",
+            "choral",
+            "classical",
+            "quiet",
+            "vocal",
+            "female",
+            "slow",
+            "singing",
+            "vocals"
+        ],
+        "tempo": "x050"
+    },
+    "HighwayToHell_solo_Soprano_x050_original": {
+        "instrumrnt": "Soprano",
+        "key": "original",
         "tags": [
             "opera",
             "choir",
@@ -5303,23 +5303,6 @@
         ],
         "tempo": "x075"
     },
-    "HighwayToHell_solo_Soprano_x075_Dmajor": {
-        "instrumrnt": "Soprano",
-        "key": "Dmajor",
-        "tags": [
-            "choir",
-            "opera",
-            "choral",
-            "classical",
-            "quiet",
-            "vocal",
-            "slow",
-            "female",
-            "singing",
-            "vocals"
-        ],
-        "tempo": "x075"
-    },
     "HighwayToHell_solo_Soprano_x075_E-major": {
         "instrumrnt": "Soprano",
         "key": "E-major",
@@ -5343,6 +5326,23 @@
         "tags": [
             "opera",
             "choir",
+            "choral",
+            "classical",
+            "quiet",
+            "vocal",
+            "slow",
+            "female",
+            "singing",
+            "vocals"
+        ],
+        "tempo": "x075"
+    },
+    "HighwayToHell_solo_Soprano_x075_original": {
+        "instrumrnt": "Soprano",
+        "key": "original",
+        "tags": [
+            "choir",
+            "opera",
             "choral",
             "classical",
             "quiet",
@@ -5388,23 +5388,6 @@
         ],
         "tempo": "x125"
     },
-    "HighwayToHell_solo_Soprano_x125_Dmajor": {
-        "instrumrnt": "Soprano",
-        "key": "Dmajor",
-        "tags": [
-            "choir",
-            "choral",
-            "opera",
-            "quiet",
-            "classical",
-            "slow",
-            "vocal",
-            "female",
-            "singing",
-            "vocals"
-        ],
-        "tempo": "x125"
-    },
     "HighwayToHell_solo_Soprano_x125_E-major": {
         "instrumrnt": "Soprano",
         "key": "E-major",
@@ -5436,6 +5419,23 @@
             "female",
             "singing",
             "soft"
+        ],
+        "tempo": "x125"
+    },
+    "HighwayToHell_solo_Soprano_x125_original": {
+        "instrumrnt": "Soprano",
+        "key": "original",
+        "tags": [
+            "choir",
+            "choral",
+            "opera",
+            "quiet",
+            "classical",
+            "slow",
+            "vocal",
+            "female",
+            "singing",
+            "vocals"
         ],
         "tempo": "x125"
     },
@@ -5473,23 +5473,6 @@
         ],
         "tempo": "x150"
     },
-    "HighwayToHell_solo_Soprano_x150_Dmajor": {
-        "instrumrnt": "Soprano",
-        "key": "Dmajor",
-        "tags": [
-            "choir",
-            "choral",
-            "opera",
-            "quiet",
-            "slow",
-            "classical",
-            "vocal",
-            "female",
-            "singing",
-            "vocals"
-        ],
-        "tempo": "x150"
-    },
     "HighwayToHell_solo_Soprano_x150_E-major": {
         "instrumrnt": "Soprano",
         "key": "E-major",
@@ -5524,22 +5507,22 @@
         ],
         "tempo": "x150"
     },
-    "HighwayToHell_solo_Timpani_original": {
-        "instrumrnt": "Timpani",
+    "HighwayToHell_solo_Soprano_x150_original": {
+        "instrumrnt": "Soprano",
         "key": "original",
         "tags": [
-            "drums",
+            "choir",
+            "choral",
+            "opera",
             "quiet",
             "slow",
             "classical",
-            "guitar",
-            "strings",
-            "piano",
-            "beat",
-            "indian",
-            "fast"
+            "vocal",
+            "female",
+            "singing",
+            "vocals"
         ],
-        "tempo": "original"
+        "tempo": "x150"
     },
     "HighwayToHell_solo_Timpani_original_C#major": {
         "instrumrnt": "Timpani",
@@ -5609,6 +5592,23 @@
         ],
         "tempo": "original"
     },
+    "HighwayToHell_solo_Timpani_original_original": {
+        "instrumrnt": "Timpani",
+        "key": "original",
+        "tags": [
+            "drums",
+            "quiet",
+            "slow",
+            "classical",
+            "guitar",
+            "strings",
+            "piano",
+            "beat",
+            "indian",
+            "fast"
+        ],
+        "tempo": "original"
+    },
     "HighwayToHell_solo_Timpani_x050_C#major": {
         "instrumrnt": "Timpani",
         "key": "C#major",
@@ -5640,23 +5640,6 @@
             "techno",
             "ambient",
             "no vocals"
-        ],
-        "tempo": "x050"
-    },
-    "HighwayToHell_solo_Timpani_x050_Dmajor": {
-        "instrumrnt": "Timpani",
-        "key": "Dmajor",
-        "tags": [
-            "quiet",
-            "drums",
-            "slow",
-            "electronic",
-            "classical",
-            "beat",
-            "fast",
-            "ambient",
-            "techno",
-            "piano"
         ],
         "tempo": "x050"
     },
@@ -5694,6 +5677,23 @@
         ],
         "tempo": "x050"
     },
+    "HighwayToHell_solo_Timpani_x050_original": {
+        "instrumrnt": "Timpani",
+        "key": "original",
+        "tags": [
+            "quiet",
+            "drums",
+            "slow",
+            "electronic",
+            "classical",
+            "beat",
+            "fast",
+            "ambient",
+            "techno",
+            "piano"
+        ],
+        "tempo": "x050"
+    },
     "HighwayToHell_solo_Timpani_x075_C#major": {
         "instrumrnt": "Timpani",
         "key": "C#major",
@@ -5724,23 +5724,6 @@
             "indian",
             "beat",
             "strings",
-            "soft"
-        ],
-        "tempo": "x075"
-    },
-    "HighwayToHell_solo_Timpani_x075_Dmajor": {
-        "instrumrnt": "Timpani",
-        "key": "Dmajor",
-        "tags": [
-            "drums",
-            "quiet",
-            "slow",
-            "classical",
-            "piano",
-            "beat",
-            "fast",
-            "strings",
-            "indian",
             "soft"
         ],
         "tempo": "x075"
@@ -5779,6 +5762,23 @@
         ],
         "tempo": "x075"
     },
+    "HighwayToHell_solo_Timpani_x075_original": {
+        "instrumrnt": "Timpani",
+        "key": "original",
+        "tags": [
+            "drums",
+            "quiet",
+            "slow",
+            "classical",
+            "piano",
+            "beat",
+            "fast",
+            "strings",
+            "indian",
+            "soft"
+        ],
+        "tempo": "x075"
+    },
     "HighwayToHell_solo_Timpani_x125_C#major": {
         "instrumrnt": "Timpani",
         "key": "C#major",
@@ -5810,23 +5810,6 @@
             "strings",
             "soft",
             "no vocals"
-        ],
-        "tempo": "x125"
-    },
-    "HighwayToHell_solo_Timpani_x125_Dmajor": {
-        "instrumrnt": "Timpani",
-        "key": "Dmajor",
-        "tags": [
-            "quiet",
-            "drums",
-            "slow",
-            "classical",
-            "piano",
-            "guitar",
-            "strings",
-            "indian",
-            "soft",
-            "beat"
         ],
         "tempo": "x125"
     },
@@ -5864,6 +5847,23 @@
         ],
         "tempo": "x125"
     },
+    "HighwayToHell_solo_Timpani_x125_original": {
+        "instrumrnt": "Timpani",
+        "key": "original",
+        "tags": [
+            "quiet",
+            "drums",
+            "slow",
+            "classical",
+            "piano",
+            "guitar",
+            "strings",
+            "indian",
+            "soft",
+            "beat"
+        ],
+        "tempo": "x125"
+    },
     "HighwayToHell_solo_Timpani_x150_C#major": {
         "instrumrnt": "Timpani",
         "key": "C#major",
@@ -5895,23 +5895,6 @@
             "strings",
             "soft",
             "beat"
-        ],
-        "tempo": "x150"
-    },
-    "HighwayToHell_solo_Timpani_x150_Dmajor": {
-        "instrumrnt": "Timpani",
-        "key": "Dmajor",
-        "tags": [
-            "quiet",
-            "drums",
-            "slow",
-            "classical",
-            "guitar",
-            "indian",
-            "piano",
-            "strings",
-            "soft",
-            "ambient"
         ],
         "tempo": "x150"
     },
@@ -5949,22 +5932,22 @@
         ],
         "tempo": "x150"
     },
-    "HighwayToHell_solo_Trombone_original": {
-        "instrumrnt": "Trombone",
+    "HighwayToHell_solo_Timpani_x150_original": {
+        "instrumrnt": "Timpani",
         "key": "original",
         "tags": [
-            "violin",
-            "classical",
-            "strings",
-            "slow",
-            "solo",
-            "cello",
-            "flute",
-            "piano",
             "quiet",
-            "no vocals"
+            "drums",
+            "slow",
+            "classical",
+            "guitar",
+            "indian",
+            "piano",
+            "strings",
+            "soft",
+            "ambient"
         ],
-        "tempo": "original"
+        "tempo": "x150"
     },
     "HighwayToHell_solo_Trombone_original_C#major": {
         "instrumrnt": "Trombone",
@@ -6034,6 +6017,23 @@
         ],
         "tempo": "original"
     },
+    "HighwayToHell_solo_Trombone_original_original": {
+        "instrumrnt": "Trombone",
+        "key": "original",
+        "tags": [
+            "violin",
+            "classical",
+            "strings",
+            "slow",
+            "solo",
+            "cello",
+            "flute",
+            "piano",
+            "quiet",
+            "no vocals"
+        ],
+        "tempo": "original"
+    },
     "HighwayToHell_solo_Trombone_x050_C#major": {
         "instrumrnt": "Trombone",
         "key": "C#major",
@@ -6068,23 +6068,6 @@
         ],
         "tempo": "x050"
     },
-    "HighwayToHell_solo_Trombone_x050_Dmajor": {
-        "instrumrnt": "Trombone",
-        "key": "Dmajor",
-        "tags": [
-            "violin",
-            "classical",
-            "strings",
-            "solo",
-            "cello",
-            "slow",
-            "classic",
-            "flute",
-            "piano",
-            "quiet"
-        ],
-        "tempo": "x050"
-    },
     "HighwayToHell_solo_Trombone_x050_E-major": {
         "instrumrnt": "Trombone",
         "key": "E-major",
@@ -6115,6 +6098,23 @@
             "piano",
             "cello",
             "classic",
+            "quiet"
+        ],
+        "tempo": "x050"
+    },
+    "HighwayToHell_solo_Trombone_x050_original": {
+        "instrumrnt": "Trombone",
+        "key": "original",
+        "tags": [
+            "violin",
+            "classical",
+            "strings",
+            "solo",
+            "cello",
+            "slow",
+            "classic",
+            "flute",
+            "piano",
             "quiet"
         ],
         "tempo": "x050"
@@ -6153,23 +6153,6 @@
         ],
         "tempo": "x075"
     },
-    "HighwayToHell_solo_Trombone_x075_Dmajor": {
-        "instrumrnt": "Trombone",
-        "key": "Dmajor",
-        "tags": [
-            "violin",
-            "classical",
-            "strings",
-            "cello",
-            "solo",
-            "slow",
-            "piano",
-            "flute",
-            "classic",
-            "no vocals"
-        ],
-        "tempo": "x075"
-    },
     "HighwayToHell_solo_Trombone_x075_E-major": {
         "instrumrnt": "Trombone",
         "key": "E-major",
@@ -6200,6 +6183,23 @@
             "piano",
             "cello",
             "quiet",
+            "no vocals"
+        ],
+        "tempo": "x075"
+    },
+    "HighwayToHell_solo_Trombone_x075_original": {
+        "instrumrnt": "Trombone",
+        "key": "original",
+        "tags": [
+            "violin",
+            "classical",
+            "strings",
+            "cello",
+            "solo",
+            "slow",
+            "piano",
+            "flute",
+            "classic",
             "no vocals"
         ],
         "tempo": "x075"
@@ -6238,23 +6238,6 @@
         ],
         "tempo": "x125"
     },
-    "HighwayToHell_solo_Trombone_x125_Dmajor": {
-        "instrumrnt": "Trombone",
-        "key": "Dmajor",
-        "tags": [
-            "violin",
-            "classical",
-            "strings",
-            "slow",
-            "solo",
-            "cello",
-            "flute",
-            "piano",
-            "quiet",
-            "no vocals"
-        ],
-        "tempo": "x125"
-    },
     "HighwayToHell_solo_Trombone_x125_E-major": {
         "instrumrnt": "Trombone",
         "key": "E-major",
@@ -6286,6 +6269,23 @@
             "cello",
             "quiet",
             "soft"
+        ],
+        "tempo": "x125"
+    },
+    "HighwayToHell_solo_Trombone_x125_original": {
+        "instrumrnt": "Trombone",
+        "key": "original",
+        "tags": [
+            "violin",
+            "classical",
+            "strings",
+            "slow",
+            "solo",
+            "cello",
+            "flute",
+            "piano",
+            "quiet",
+            "no vocals"
         ],
         "tempo": "x125"
     },
@@ -6323,23 +6323,6 @@
         ],
         "tempo": "x150"
     },
-    "HighwayToHell_solo_Trombone_x150_Dmajor": {
-        "instrumrnt": "Trombone",
-        "key": "Dmajor",
-        "tags": [
-            "violin",
-            "classical",
-            "slow",
-            "strings",
-            "solo",
-            "cello",
-            "piano",
-            "flute",
-            "quiet",
-            "soft"
-        ],
-        "tempo": "x150"
-    },
     "HighwayToHell_solo_Trombone_x150_E-major": {
         "instrumrnt": "Trombone",
         "key": "E-major",
@@ -6374,22 +6357,22 @@
         ],
         "tempo": "x150"
     },
-    "HighwayToHell_solo_Tuba_original": {
-        "instrumrnt": "Tuba",
+    "HighwayToHell_solo_Trombone_x150_original": {
+        "instrumrnt": "Trombone",
         "key": "original",
         "tags": [
-            "flute",
-            "slow",
-            "quiet",
-            "soft",
-            "piano",
+            "violin",
             "classical",
+            "slow",
+            "strings",
             "solo",
-            "guitar",
-            "ambient",
-            "no vocal"
+            "cello",
+            "piano",
+            "flute",
+            "quiet",
+            "soft"
         ],
-        "tempo": "original"
+        "tempo": "x150"
     },
     "HighwayToHell_solo_Tuba_original_C#major": {
         "instrumrnt": "Tuba",
@@ -6459,6 +6442,23 @@
         ],
         "tempo": "original"
     },
+    "HighwayToHell_solo_Tuba_original_original": {
+        "instrumrnt": "Tuba",
+        "key": "original",
+        "tags": [
+            "flute",
+            "slow",
+            "quiet",
+            "soft",
+            "piano",
+            "classical",
+            "solo",
+            "guitar",
+            "ambient",
+            "no vocal"
+        ],
+        "tempo": "original"
+    },
     "HighwayToHell_solo_Tuba_x050_C#major": {
         "instrumrnt": "Tuba",
         "key": "C#major",
@@ -6490,23 +6490,6 @@
             "flute",
             "harp",
             "female"
-        ],
-        "tempo": "x050"
-    },
-    "HighwayToHell_solo_Tuba_x050_Dmajor": {
-        "instrumrnt": "Tuba",
-        "key": "Dmajor",
-        "tags": [
-            "piano",
-            "slow",
-            "classical",
-            "quiet",
-            "flute",
-            "soft",
-            "solo",
-            "guitar",
-            "no vocal",
-            "no vocals"
         ],
         "tempo": "x050"
     },
@@ -6544,6 +6527,23 @@
         ],
         "tempo": "x050"
     },
+    "HighwayToHell_solo_Tuba_x050_original": {
+        "instrumrnt": "Tuba",
+        "key": "original",
+        "tags": [
+            "piano",
+            "slow",
+            "classical",
+            "quiet",
+            "flute",
+            "soft",
+            "solo",
+            "guitar",
+            "no vocal",
+            "no vocals"
+        ],
+        "tempo": "x050"
+    },
     "HighwayToHell_solo_Tuba_x075_C#major": {
         "instrumrnt": "Tuba",
         "key": "C#major",
@@ -6575,23 +6575,6 @@
             "solo",
             "harp",
             "no vocal"
-        ],
-        "tempo": "x075"
-    },
-    "HighwayToHell_solo_Tuba_x075_Dmajor": {
-        "instrumrnt": "Tuba",
-        "key": "Dmajor",
-        "tags": [
-            "flute",
-            "slow",
-            "quiet",
-            "soft",
-            "piano",
-            "classical",
-            "solo",
-            "guitar",
-            "no vocal",
-            "no vocals"
         ],
         "tempo": "x075"
     },
@@ -6629,6 +6612,23 @@
         ],
         "tempo": "x075"
     },
+    "HighwayToHell_solo_Tuba_x075_original": {
+        "instrumrnt": "Tuba",
+        "key": "original",
+        "tags": [
+            "flute",
+            "slow",
+            "quiet",
+            "soft",
+            "piano",
+            "classical",
+            "solo",
+            "guitar",
+            "no vocal",
+            "no vocals"
+        ],
+        "tempo": "x075"
+    },
     "HighwayToHell_solo_Tuba_x125_C#major": {
         "instrumrnt": "Tuba",
         "key": "C#major",
@@ -6659,23 +6659,6 @@
             "solo",
             "guitar",
             "ambient",
-            "no vocal"
-        ],
-        "tempo": "x125"
-    },
-    "HighwayToHell_solo_Tuba_x125_Dmajor": {
-        "instrumrnt": "Tuba",
-        "key": "Dmajor",
-        "tags": [
-            "flute",
-            "slow",
-            "quiet",
-            "soft",
-            "piano",
-            "classical",
-            "solo",
-            "ambient",
-            "guitar",
             "no vocal"
         ],
         "tempo": "x125"
@@ -6714,6 +6697,23 @@
         ],
         "tempo": "x125"
     },
+    "HighwayToHell_solo_Tuba_x125_original": {
+        "instrumrnt": "Tuba",
+        "key": "original",
+        "tags": [
+            "flute",
+            "slow",
+            "quiet",
+            "soft",
+            "piano",
+            "classical",
+            "solo",
+            "ambient",
+            "guitar",
+            "no vocal"
+        ],
+        "tempo": "x125"
+    },
     "HighwayToHell_solo_Tuba_x150_C#major": {
         "instrumrnt": "Tuba",
         "key": "C#major",
@@ -6745,23 +6745,6 @@
             "guitar",
             "ambient",
             "harp"
-        ],
-        "tempo": "x150"
-    },
-    "HighwayToHell_solo_Tuba_x150_Dmajor": {
-        "instrumrnt": "Tuba",
-        "key": "Dmajor",
-        "tags": [
-            "flute",
-            "slow",
-            "quiet",
-            "soft",
-            "piano",
-            "classical",
-            "solo",
-            "ambient",
-            "guitar",
-            "no vocal"
         ],
         "tempo": "x150"
     },
@@ -6799,22 +6782,22 @@
         ],
         "tempo": "x150"
     },
-    "HighwayToHell_solo_Viola_original": {
-        "instrumrnt": "Viola",
+    "HighwayToHell_solo_Tuba_x150_original": {
+        "instrumrnt": "Tuba",
         "key": "original",
         "tags": [
-            "violin",
-            "classical",
-            "strings",
+            "flute",
             "slow",
-            "cello",
             "quiet",
-            "classic",
-            "solo",
             "soft",
-            "opera"
+            "piano",
+            "classical",
+            "solo",
+            "ambient",
+            "guitar",
+            "no vocal"
         ],
-        "tempo": "original"
+        "tempo": "x150"
     },
     "HighwayToHell_solo_Viola_original_C#major": {
         "instrumrnt": "Viola",
@@ -6884,6 +6867,23 @@
         ],
         "tempo": "original"
     },
+    "HighwayToHell_solo_Viola_original_original": {
+        "instrumrnt": "Viola",
+        "key": "original",
+        "tags": [
+            "violin",
+            "classical",
+            "strings",
+            "slow",
+            "cello",
+            "quiet",
+            "classic",
+            "solo",
+            "soft",
+            "opera"
+        ],
+        "tempo": "original"
+    },
     "HighwayToHell_solo_Viola_x050_C#major": {
         "instrumrnt": "Viola",
         "key": "C#major",
@@ -6918,23 +6918,6 @@
         ],
         "tempo": "x050"
     },
-    "HighwayToHell_solo_Viola_x050_Dmajor": {
-        "instrumrnt": "Viola",
-        "key": "Dmajor",
-        "tags": [
-            "violin",
-            "classical",
-            "strings",
-            "slow",
-            "cello",
-            "classic",
-            "quiet",
-            "solo",
-            "soft",
-            "no vocal"
-        ],
-        "tempo": "x050"
-    },
     "HighwayToHell_solo_Viola_x050_E-major": {
         "instrumrnt": "Viola",
         "key": "E-major",
@@ -6965,6 +6948,23 @@
             "cello",
             "soft",
             "solo",
+            "no vocal"
+        ],
+        "tempo": "x050"
+    },
+    "HighwayToHell_solo_Viola_x050_original": {
+        "instrumrnt": "Viola",
+        "key": "original",
+        "tags": [
+            "violin",
+            "classical",
+            "strings",
+            "slow",
+            "cello",
+            "classic",
+            "quiet",
+            "solo",
+            "soft",
             "no vocal"
         ],
         "tempo": "x050"
@@ -7003,23 +7003,6 @@
         ],
         "tempo": "x075"
     },
-    "HighwayToHell_solo_Viola_x075_Dmajor": {
-        "instrumrnt": "Viola",
-        "key": "Dmajor",
-        "tags": [
-            "violin",
-            "classical",
-            "strings",
-            "slow",
-            "cello",
-            "classic",
-            "quiet",
-            "solo",
-            "soft",
-            "no vocal"
-        ],
-        "tempo": "x075"
-    },
     "HighwayToHell_solo_Viola_x075_E-major": {
         "instrumrnt": "Viola",
         "key": "E-major",
@@ -7051,6 +7034,23 @@
             "cello",
             "no vocal",
             "no vocals"
+        ],
+        "tempo": "x075"
+    },
+    "HighwayToHell_solo_Viola_x075_original": {
+        "instrumrnt": "Viola",
+        "key": "original",
+        "tags": [
+            "violin",
+            "classical",
+            "strings",
+            "slow",
+            "cello",
+            "classic",
+            "quiet",
+            "solo",
+            "soft",
+            "no vocal"
         ],
         "tempo": "x075"
     },
@@ -7088,23 +7088,6 @@
         ],
         "tempo": "x125"
     },
-    "HighwayToHell_solo_Viola_x125_Dmajor": {
-        "instrumrnt": "Viola",
-        "key": "Dmajor",
-        "tags": [
-            "violin",
-            "classical",
-            "strings",
-            "slow",
-            "cello",
-            "classic",
-            "quiet",
-            "solo",
-            "soft",
-            "no vocal"
-        ],
-        "tempo": "x125"
-    },
     "HighwayToHell_solo_Viola_x125_E-major": {
         "instrumrnt": "Viola",
         "key": "E-major",
@@ -7139,6 +7122,23 @@
         ],
         "tempo": "x125"
     },
+    "HighwayToHell_solo_Viola_x125_original": {
+        "instrumrnt": "Viola",
+        "key": "original",
+        "tags": [
+            "violin",
+            "classical",
+            "strings",
+            "slow",
+            "cello",
+            "classic",
+            "quiet",
+            "solo",
+            "soft",
+            "no vocal"
+        ],
+        "tempo": "x125"
+    },
     "HighwayToHell_solo_Viola_x150_C#major": {
         "instrumrnt": "Viola",
         "key": "C#major",
@@ -7169,23 +7169,6 @@
             "classic",
             "solo",
             "soft",
-            "opera"
-        ],
-        "tempo": "x150"
-    },
-    "HighwayToHell_solo_Viola_x150_Dmajor": {
-        "instrumrnt": "Viola",
-        "key": "Dmajor",
-        "tags": [
-            "violin",
-            "classical",
-            "strings",
-            "slow",
-            "cello",
-            "quiet",
-            "classic",
-            "soft",
-            "solo",
             "opera"
         ],
         "tempo": "x150"
@@ -7224,22 +7207,22 @@
         ],
         "tempo": "x150"
     },
-    "HighwayToHell_solo_Violin_original": {
-        "instrumrnt": "Violin",
+    "HighwayToHell_solo_Viola_x150_original": {
+        "instrumrnt": "Viola",
         "key": "original",
         "tags": [
-            "classical",
             "violin",
+            "classical",
             "strings",
-            "opera",
             "slow",
+            "cello",
             "quiet",
-            "female",
             "classic",
             "soft",
-            "flute"
+            "solo",
+            "opera"
         ],
-        "tempo": "original"
+        "tempo": "x150"
     },
     "HighwayToHell_solo_Violin_original_C#major": {
         "instrumrnt": "Violin",
@@ -7309,6 +7292,23 @@
         ],
         "tempo": "original"
     },
+    "HighwayToHell_solo_Violin_original_original": {
+        "instrumrnt": "Violin",
+        "key": "original",
+        "tags": [
+            "classical",
+            "violin",
+            "strings",
+            "opera",
+            "slow",
+            "quiet",
+            "female",
+            "classic",
+            "soft",
+            "flute"
+        ],
+        "tempo": "original"
+    },
     "HighwayToHell_solo_Violin_x050_C#major": {
         "instrumrnt": "Violin",
         "key": "C#major",
@@ -7340,23 +7340,6 @@
             "soft",
             "female",
             "flute"
-        ],
-        "tempo": "x050"
-    },
-    "HighwayToHell_solo_Violin_x050_Dmajor": {
-        "instrumrnt": "Violin",
-        "key": "Dmajor",
-        "tags": [
-            "classical",
-            "violin",
-            "strings",
-            "slow",
-            "classic",
-            "opera",
-            "quiet",
-            "soft",
-            "flute",
-            "female"
         ],
         "tempo": "x050"
     },
@@ -7394,6 +7377,23 @@
         ],
         "tempo": "x050"
     },
+    "HighwayToHell_solo_Violin_x050_original": {
+        "instrumrnt": "Violin",
+        "key": "original",
+        "tags": [
+            "classical",
+            "violin",
+            "strings",
+            "slow",
+            "classic",
+            "opera",
+            "quiet",
+            "soft",
+            "flute",
+            "female"
+        ],
+        "tempo": "x050"
+    },
     "HighwayToHell_solo_Violin_x075_C#major": {
         "instrumrnt": "Violin",
         "key": "C#major",
@@ -7425,23 +7425,6 @@
             "soft",
             "female",
             "cello"
-        ],
-        "tempo": "x075"
-    },
-    "HighwayToHell_solo_Violin_x075_Dmajor": {
-        "instrumrnt": "Violin",
-        "key": "Dmajor",
-        "tags": [
-            "classical",
-            "violin",
-            "strings",
-            "opera",
-            "slow",
-            "quiet",
-            "female",
-            "classic",
-            "soft",
-            "flute"
         ],
         "tempo": "x075"
     },
@@ -7479,6 +7462,23 @@
         ],
         "tempo": "x075"
     },
+    "HighwayToHell_solo_Violin_x075_original": {
+        "instrumrnt": "Violin",
+        "key": "original",
+        "tags": [
+            "classical",
+            "violin",
+            "strings",
+            "opera",
+            "slow",
+            "quiet",
+            "female",
+            "classic",
+            "soft",
+            "flute"
+        ],
+        "tempo": "x075"
+    },
     "HighwayToHell_solo_Violin_x125_C#major": {
         "instrumrnt": "Violin",
         "key": "C#major",
@@ -7510,23 +7510,6 @@
             "soft",
             "classic",
             "woman"
-        ],
-        "tempo": "x125"
-    },
-    "HighwayToHell_solo_Violin_x125_Dmajor": {
-        "instrumrnt": "Violin",
-        "key": "Dmajor",
-        "tags": [
-            "classical",
-            "violin",
-            "strings",
-            "slow",
-            "opera",
-            "quiet",
-            "female",
-            "classic",
-            "soft",
-            "flute"
         ],
         "tempo": "x125"
     },
@@ -7564,6 +7547,23 @@
         ],
         "tempo": "x125"
     },
+    "HighwayToHell_solo_Violin_x125_original": {
+        "instrumrnt": "Violin",
+        "key": "original",
+        "tags": [
+            "classical",
+            "violin",
+            "strings",
+            "slow",
+            "opera",
+            "quiet",
+            "female",
+            "classic",
+            "soft",
+            "flute"
+        ],
+        "tempo": "x125"
+    },
     "HighwayToHell_solo_Violin_x150_C#major": {
         "instrumrnt": "Violin",
         "key": "C#major",
@@ -7595,23 +7595,6 @@
             "soft",
             "classic",
             "vocal"
-        ],
-        "tempo": "x150"
-    },
-    "HighwayToHell_solo_Violin_x150_Dmajor": {
-        "instrumrnt": "Violin",
-        "key": "Dmajor",
-        "tags": [
-            "classical",
-            "violin",
-            "strings",
-            "slow",
-            "opera",
-            "quiet",
-            "female",
-            "soft",
-            "classic",
-            "flute"
         ],
         "tempo": "x150"
     },
@@ -7649,22 +7632,22 @@
         ],
         "tempo": "x150"
     },
-    "HighwayToHell_solo_Violoncello_original": {
-        "instrumrnt": "Violoncello",
+    "HighwayToHell_solo_Violin_x150_original": {
+        "instrumrnt": "Violin",
         "key": "original",
         "tags": [
-            "violin",
             "classical",
+            "violin",
             "strings",
             "slow",
+            "opera",
             "quiet",
-            "classic",
+            "female",
             "soft",
-            "cello",
-            "solo",
-            "opera"
+            "classic",
+            "flute"
         ],
-        "tempo": "original"
+        "tempo": "x150"
     },
     "HighwayToHell_solo_Violoncello_original_C#major": {
         "instrumrnt": "Violoncello",
@@ -7734,6 +7717,23 @@
         ],
         "tempo": "original"
     },
+    "HighwayToHell_solo_Violoncello_original_original": {
+        "instrumrnt": "Violoncello",
+        "key": "original",
+        "tags": [
+            "violin",
+            "classical",
+            "strings",
+            "slow",
+            "quiet",
+            "classic",
+            "soft",
+            "cello",
+            "solo",
+            "opera"
+        ],
+        "tempo": "original"
+    },
     "HighwayToHell_solo_Violoncello_x050_C#major": {
         "instrumrnt": "Violoncello",
         "key": "C#major",
@@ -7765,23 +7765,6 @@
             "solo",
             "soft",
             "opera"
-        ],
-        "tempo": "x050"
-    },
-    "HighwayToHell_solo_Violoncello_x050_Dmajor": {
-        "instrumrnt": "Violoncello",
-        "key": "Dmajor",
-        "tags": [
-            "classical",
-            "violin",
-            "strings",
-            "slow",
-            "classic",
-            "quiet",
-            "soft",
-            "cello",
-            "solo",
-            "flute"
         ],
         "tempo": "x050"
     },
@@ -7819,6 +7802,23 @@
         ],
         "tempo": "x050"
     },
+    "HighwayToHell_solo_Violoncello_x050_original": {
+        "instrumrnt": "Violoncello",
+        "key": "original",
+        "tags": [
+            "classical",
+            "violin",
+            "strings",
+            "slow",
+            "classic",
+            "quiet",
+            "soft",
+            "cello",
+            "solo",
+            "flute"
+        ],
+        "tempo": "x050"
+    },
     "HighwayToHell_solo_Violoncello_x075_C#major": {
         "instrumrnt": "Violoncello",
         "key": "C#major",
@@ -7850,23 +7850,6 @@
             "soft",
             "solo",
             "no vocal"
-        ],
-        "tempo": "x075"
-    },
-    "HighwayToHell_solo_Violoncello_x075_Dmajor": {
-        "instrumrnt": "Violoncello",
-        "key": "Dmajor",
-        "tags": [
-            "classical",
-            "violin",
-            "strings",
-            "slow",
-            "quiet",
-            "classic",
-            "soft",
-            "cello",
-            "solo",
-            "flute"
         ],
         "tempo": "x075"
     },
@@ -7904,6 +7887,23 @@
         ],
         "tempo": "x075"
     },
+    "HighwayToHell_solo_Violoncello_x075_original": {
+        "instrumrnt": "Violoncello",
+        "key": "original",
+        "tags": [
+            "classical",
+            "violin",
+            "strings",
+            "slow",
+            "quiet",
+            "classic",
+            "soft",
+            "cello",
+            "solo",
+            "flute"
+        ],
+        "tempo": "x075"
+    },
     "HighwayToHell_solo_Violoncello_x125_C#major": {
         "instrumrnt": "Violoncello",
         "key": "C#major",
@@ -7935,23 +7935,6 @@
             "cello",
             "opera",
             "solo"
-        ],
-        "tempo": "x125"
-    },
-    "HighwayToHell_solo_Violoncello_x125_Dmajor": {
-        "instrumrnt": "Violoncello",
-        "key": "Dmajor",
-        "tags": [
-            "violin",
-            "classical",
-            "strings",
-            "slow",
-            "quiet",
-            "classic",
-            "soft",
-            "cello",
-            "solo",
-            "flute"
         ],
         "tempo": "x125"
     },
@@ -7989,6 +7972,23 @@
         ],
         "tempo": "x125"
     },
+    "HighwayToHell_solo_Violoncello_x125_original": {
+        "instrumrnt": "Violoncello",
+        "key": "original",
+        "tags": [
+            "violin",
+            "classical",
+            "strings",
+            "slow",
+            "quiet",
+            "classic",
+            "soft",
+            "cello",
+            "solo",
+            "flute"
+        ],
+        "tempo": "x125"
+    },
     "HighwayToHell_solo_Violoncello_x150_C#major": {
         "instrumrnt": "Violoncello",
         "key": "C#major",
@@ -8020,23 +8020,6 @@
             "cello",
             "classic",
             "female"
-        ],
-        "tempo": "x150"
-    },
-    "HighwayToHell_solo_Violoncello_x150_Dmajor": {
-        "instrumrnt": "Violoncello",
-        "key": "Dmajor",
-        "tags": [
-            "violin",
-            "classical",
-            "strings",
-            "slow",
-            "quiet",
-            "soft",
-            "classic",
-            "opera",
-            "cello",
-            "flute"
         ],
         "tempo": "x150"
     },
@@ -8074,22 +8057,22 @@
         ],
         "tempo": "x150"
     },
-    "HighwayToHell_solo_Xylophone_original": {
-        "instrumrnt": "Xylophone",
+    "HighwayToHell_solo_Violoncello_x150_original": {
+        "instrumrnt": "Violoncello",
         "key": "original",
         "tags": [
-            "guitar",
-            "quiet",
-            "slow",
-            "strings",
+            "violin",
             "classical",
-            "harp",
+            "strings",
+            "slow",
+            "quiet",
             "soft",
-            "electronic",
-            "no vocals",
-            "no vocal"
+            "classic",
+            "opera",
+            "cello",
+            "flute"
         ],
-        "tempo": "original"
+        "tempo": "x150"
     },
     "HighwayToHell_solo_Xylophone_original_C#major": {
         "instrumrnt": "Xylophone",
@@ -8159,6 +8142,23 @@
         ],
         "tempo": "original"
     },
+    "HighwayToHell_solo_Xylophone_original_original": {
+        "instrumrnt": "Xylophone",
+        "key": "original",
+        "tags": [
+            "guitar",
+            "quiet",
+            "slow",
+            "strings",
+            "classical",
+            "harp",
+            "soft",
+            "electronic",
+            "no vocals",
+            "no vocal"
+        ],
+        "tempo": "original"
+    },
     "HighwayToHell_solo_Xylophone_x050_C#major": {
         "instrumrnt": "Xylophone",
         "key": "C#major",
@@ -8190,23 +8190,6 @@
             "beat",
             "no vocals",
             "no vocal"
-        ],
-        "tempo": "x050"
-    },
-    "HighwayToHell_solo_Xylophone_x050_Dmajor": {
-        "instrumrnt": "Xylophone",
-        "key": "Dmajor",
-        "tags": [
-            "electronic",
-            "techno",
-            "quiet",
-            "slow",
-            "synth",
-            "strings",
-            "ambient",
-            "beat",
-            "no vocals",
-            "guitar"
         ],
         "tempo": "x050"
     },
@@ -8244,6 +8227,23 @@
         ],
         "tempo": "x050"
     },
+    "HighwayToHell_solo_Xylophone_x050_original": {
+        "instrumrnt": "Xylophone",
+        "key": "original",
+        "tags": [
+            "electronic",
+            "techno",
+            "quiet",
+            "slow",
+            "synth",
+            "strings",
+            "ambient",
+            "beat",
+            "no vocals",
+            "guitar"
+        ],
+        "tempo": "x050"
+    },
     "HighwayToHell_solo_Xylophone_x075_C#major": {
         "instrumrnt": "Xylophone",
         "key": "C#major",
@@ -8275,23 +8275,6 @@
             "soft",
             "beat",
             "no vocals"
-        ],
-        "tempo": "x075"
-    },
-    "HighwayToHell_solo_Xylophone_x075_Dmajor": {
-        "instrumrnt": "Xylophone",
-        "key": "Dmajor",
-        "tags": [
-            "guitar",
-            "quiet",
-            "slow",
-            "strings",
-            "classical",
-            "electronic",
-            "harp",
-            "soft",
-            "no vocals",
-            "no vocal"
         ],
         "tempo": "x075"
     },
@@ -8329,6 +8312,23 @@
         ],
         "tempo": "x075"
     },
+    "HighwayToHell_solo_Xylophone_x075_original": {
+        "instrumrnt": "Xylophone",
+        "key": "original",
+        "tags": [
+            "guitar",
+            "quiet",
+            "slow",
+            "strings",
+            "classical",
+            "electronic",
+            "harp",
+            "soft",
+            "no vocals",
+            "no vocal"
+        ],
+        "tempo": "x075"
+    },
     "HighwayToHell_solo_Xylophone_x125_C#major": {
         "instrumrnt": "Xylophone",
         "key": "C#major",
@@ -8363,23 +8363,6 @@
         ],
         "tempo": "x125"
     },
-    "HighwayToHell_solo_Xylophone_x125_Dmajor": {
-        "instrumrnt": "Xylophone",
-        "key": "Dmajor",
-        "tags": [
-            "guitar",
-            "quiet",
-            "slow",
-            "strings",
-            "classical",
-            "harp",
-            "soft",
-            "piano",
-            "no vocals",
-            "no vocal"
-        ],
-        "tempo": "x125"
-    },
     "HighwayToHell_solo_Xylophone_x125_E-major": {
         "instrumrnt": "Xylophone",
         "key": "E-major",
@@ -8407,6 +8390,23 @@
             "harp",
             "classical",
             "strings",
+            "soft",
+            "piano",
+            "no vocals",
+            "no vocal"
+        ],
+        "tempo": "x125"
+    },
+    "HighwayToHell_solo_Xylophone_x125_original": {
+        "instrumrnt": "Xylophone",
+        "key": "original",
+        "tags": [
+            "guitar",
+            "quiet",
+            "slow",
+            "strings",
+            "classical",
+            "harp",
             "soft",
             "piano",
             "no vocals",
@@ -8448,23 +8448,6 @@
         ],
         "tempo": "x150"
     },
-    "HighwayToHell_solo_Xylophone_x150_Dmajor": {
-        "instrumrnt": "Xylophone",
-        "key": "Dmajor",
-        "tags": [
-            "guitar",
-            "quiet",
-            "slow",
-            "strings",
-            "classical",
-            "harp",
-            "soft",
-            "no vocals",
-            "no vocal",
-            "piano"
-        ],
-        "tempo": "x150"
-    },
     "HighwayToHell_solo_Xylophone_x150_E-major": {
         "instrumrnt": "Xylophone",
         "key": "E-major",
@@ -8485,6 +8468,23 @@
     "HighwayToHell_solo_Xylophone_x150_Emajor": {
         "instrumrnt": "Xylophone",
         "key": "Emajor",
+        "tags": [
+            "guitar",
+            "quiet",
+            "slow",
+            "strings",
+            "classical",
+            "harp",
+            "soft",
+            "no vocals",
+            "no vocal",
+            "piano"
+        ],
+        "tempo": "x150"
+    },
+    "HighwayToHell_solo_Xylophone_x150_original": {
+        "instrumrnt": "Xylophone",
+        "key": "original",
         "tags": [
             "guitar",
             "quiet",
