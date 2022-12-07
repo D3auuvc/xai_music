@@ -162,5 +162,4 @@ cython_debug/
 # Project added
 .vscode
 
-audio/tmp
-audio/instruments
+audio/*
