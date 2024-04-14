@@ -1,5 +1,9 @@
 # xai_music
 
+## Requirements
+
+- Python 3.8 +
+
 ## Test Model
 
 ### Musicnn_keras

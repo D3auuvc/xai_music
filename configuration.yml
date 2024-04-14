@@ -1,0 +1,24 @@
+# The path to save the augmented audio outputs
+augmented_audio_save_path: audio/augments
+
+# The path to save the data sources
+mir_dataset_path: audio/wav
+
+# The path to save the model tag result output
+model_tag_result_save_path: audio/model_tag_result
+
+# Tempo list
+tempo_factor:
+  original: 1.00
+  x125: 1.25
+  x150: 1.50
+  x075: 0.75
+  x050: 0.50
+
+# Key
+keys:
+  - -2
+  - -1
+  - 0
+  - 1
+  - 2

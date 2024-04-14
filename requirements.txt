@@ -1,2 +1,13 @@
+tqdm
 tensorflow
+pandas
+seaborn
+PyYAML
+
+# Test model
 music21
+
+# Sounds processing library
+midi2audio
+librosa
+soundfile
