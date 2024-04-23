@@ -1,24 +1,34 @@
 # The path to save the augmented audio outputs
-augmented_audio_save_path: audio/augments
+augmented_audio_save_path: audio/augments/wav
+
+# The path to save the augmented metadata
+augmented_meta_save_path: audio/augments/meta
 
 # The path to save the data sources
-mir_dataset_path: audio/wav
+mir_dataset_path: wavfiles
 
-# The path to save the model tag result output
-model_tag_result_save_path: audio/model_tag_result
 
-# Tempo list
+# Hermonic/Percussive Source Seperation
+hpss: 
+  apply: false
+
+# Logspace Time Stretch
 tempo_factor:
-  original: 1.00
-  x125: 1.25
-  x150: 1.50
-  x075: 0.75
-  x050: 0.50
+  lower: -1
+  upper: 1
+  n_samples: 5
 
-# Key
+# Linear Pitch Shift
 keys:
-  - -2
-  - -1
-  - 0
-  - 1
-  - 2
+  n_samples: 5
+  lower: -2
+  upper: 2
+
+# Dynamic Range Compression
+drc:
+  - "radio"
+  - "film standard"
+  - "film light"
+  - "music standard"
+  - "music light"
+  - "speech"

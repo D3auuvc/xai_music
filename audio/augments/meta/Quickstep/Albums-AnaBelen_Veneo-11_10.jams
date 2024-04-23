@@ -1,0 +1,69 @@
+{
+  "annotations": [],
+  "file_metadata": {
+    "title": "",
+    "artist": "",
+    "release": "",
+    "duration": 60.09505668934241,
+    "identifiers": {},
+    "jams_version": "0.3.4"
+  },
+  "sandbox": {
+    "muda": {
+      "history": [
+        {
+          "transformer": {
+            "__class__": "LogspaceTimeStretch",
+            "params": {
+              "lower": -1.0,
+              "n_samples": 5,
+              "upper": 1.0
+            }
+          },
+          "state": {
+            "rate": 0.5
+          }
+        },
+        {
+          "transformer": {
+            "__class__": "LinearPitchShift",
+            "params": {
+              "lower": -2.0,
+              "n_samples": 5,
+              "upper": 2.0
+            }
+          },
+          "state": {
+            "tuning": -0.12,
+            "n_semitones": -1.0
+          }
+        },
+        {
+          "transformer": {
+            "__class__": "DynamicRangeCompression",
+            "params": {
+              "preset": [
+                "radio",
+                "film standard",
+                "film light",
+                "music standard",
+                "music light",
+                "speech"
+              ]
+            }
+          },
+          "state": {
+            "preset": "music light"
+          }
+        }
+      ],
+      "state": [],
+      "version": {
+        "muda": "0.4.1",
+        "librosa": "0.10.1",
+        "jams": "0.3.4",
+        "pysoundfile": "0.9.0"
+      }
+    }
+  }
+}
