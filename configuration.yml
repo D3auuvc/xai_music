@@ -8,9 +8,9 @@ augmented_meta_save_path: audio/augments/meta
 mir_dataset_path: wavfiles
 
 
-# Hermonic/Percussive Source Seperation
+# Harmonic/Percussive Source Separation
 hpss: 
-  apply: false
+  apply: true
 
 # Logspace Time Stretch
 tempo_factor:

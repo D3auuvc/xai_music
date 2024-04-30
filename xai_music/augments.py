@@ -1,10 +1,12 @@
 import os
-from tqdm import tqdm
-import soundfile as sf
-import librosa
+import random
 from pathlib import Path
+
+import librosa
 import muda
+import soundfile as sf
 import yaml
+from tqdm import tqdm
 
 
 class Audiobank:
@@ -48,45 +50,61 @@ class Audiobank:
         # Save the modified audio
         sf.write(output_path, y_modified, sr)
 
-    def __get_audio_paths(self, audio_format: str = ".wav") -> list:
+    def __get_audio_paths(self, audio_format: str = ".wav", n_samples: int = 2) -> list:
         """
-        Retrieves a list of all .wav file paths from the directory specified in the configuration file under 'mir_dataset_path'.
+        Retrieves a list of audio file paths from each genre directory specified in the configuration file under 'mir_dataset_path',
+        sampling 'n_samples' from each genre.
 
+        Args:
+            audio_format (str, optional): The format of the audio files to retrieve. Defaults to ".wav".
+            n_samples (int, optional): The number of audio files to retrieve from each genre. Defaults to 2.
         Returns:
-            list: A list containing the paths of all .wav files in the specified directory.
+            list: A list containing the paths of sampled audio files from each genre.
         """
-        audio_paths = []
         dataset_path = Path(self.config["mir_dataset_path"])
-        for audio_file in dataset_path.rglob(f"*{audio_format}"):
-            audio_paths.append(str(audio_file))
+        genre_paths = [d for d in dataset_path.iterdir() if d.is_dir()]
+        all_sampled_paths = []
 
-        if len(audio_paths) == 0:
-            raise FileNotFoundError("No audio files found in the specified directory.")
-        return audio_paths
+        for genre_path in genre_paths:
+            audio_paths = list(genre_path.rglob(f"*{audio_format}"))
+            if len(audio_paths) == 0:
+                raise FileNotFoundError(
+                    f"No audio files found in the genre directory {genre_path}."
+                )
+            if len(audio_paths) < n_samples:
+                raise ValueError(
+                    f"Requested number of samples ({n_samples}) exceeds available audio files in genre {genre_path}."
+                )
+            sampled_paths = random.sample(audio_paths, n_samples)
+            all_sampled_paths.extend(map(str, sampled_paths))
 
-    def __hpss(
-        self, audio_path: str, output_path_harmonic: str, output_path_percussive: str
-    ) -> None:
+        return all_sampled_paths
+
+    def __hpss(self, audio_path: str) -> None:
         """
         Applies Harmonic/Percussive Source Separation (HPSS) to an audio file and saves the harmonic and percussive components separately.
 
         Args:
             audio_path (str): Path to the input audio file.
-            output_path_harmonic (str): Path where the harmonic component will be saved.
-            output_path_percussive (str): Path where the percussive component will be saved.
+
         """
         # Load the audio file
         y, sr = librosa.load(audio_path, sr=None)
 
         # Apply HPSS
-        y_harmonic, y_percussive = librosa.effects.hpss(y)
+        y_harmonic, _ = librosa.effects.hpss(y)
+
+        audio_directory = os.path.dirname(audio_path)
+        file_name = os.path.splitext(os.path.basename(audio_path))[0]
 
         # Save the harmonic and percussive audio
-        sf.write(output_path_harmonic, y_harmonic, sr)
-        # sf.write(output_path_percussive, y_percussive, sr)
+        sf.write(os.path.join(audio_directory, f"{file_name}_hpss.wav"), y_harmonic, sr)
 
     def synthesis(
-        self, input_format: str = ".wav", output_format: str = ".wav"
+        self,
+        input_format: str = ".wav",
+        output_format: str = ".wav",
+        n_samples: int = 2,
     ) -> None:
         """
         Performs audio synthesis by applying various audio deformations specified in the configuration file.
@@ -95,14 +113,8 @@ class Audiobank:
         Args:
             input_format (str, optional): The format of the input audio files. Defaults to ".wav".
             output_format (str, optional): The format for saving the augmented audio files. Defaults to ".wav".
+            n_samples (int, optional): The number of augmented samples to generate for each audio file. Defaults to 2.
         """
-        if "hpss" in self.config:
-            if self.config["hpss"]["apply"]:
-                self.__hpss(
-                    self.config["hpss"]["audio_path"],
-                    self.config["hpss"]["output_path_harmonic"],
-                    self.config["hpss"]["output_path_percussive"],
-                )
         if "tempo_factor" in self.config:
             self.deformers.append(
                 (
@@ -126,7 +138,15 @@ class Audiobank:
             )
 
         pipeline = muda.Pipeline(steps=self.deformers)
-        audio_list = self.__get_audio_paths(audio_format=input_format)
+        audio_list = self.__get_audio_paths(
+            audio_format=input_format, n_samples=n_samples
+        )
+
+        # Calculate the total number of files to be created
+        total_files = len(audio_list) * len(self.deformers)
+
+        # Determine the number of digits needed to represent the total number of files
+        num_digits = len(str(total_files))
 
         for audio_path in tqdm(audio_list):
             j_orig = muda.load_jam_audio(jam_in=None, audio_file=audio_path)
@@ -152,3 +172,7 @@ class Audiobank:
                     jams_output_dir, f"{original_file_name}_{i:02d}.jams"
                 )
                 muda.save(audio_output_path, jams_output_path, jam_out)
+
+                # If Apply HPSS is enabled
+                if self.config["hpss"]["apply"]:
+                    self.__hpss(audio_output_path)
