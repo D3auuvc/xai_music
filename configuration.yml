@@ -5,7 +5,7 @@ augmented_audio_save_path: audio/augments/wav
 augmented_meta_save_path: audio/augments/meta
 
 # The path to save the data sources
-mir_dataset_path: wavfiles
+mir_dataset_path: wavfiles_16k
 
 
 # Harmonic/Percussive Source Separation
